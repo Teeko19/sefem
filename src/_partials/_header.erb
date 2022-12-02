@@ -1,0 +1,24 @@
+<% main_icon = resource.relative_url == "/" ? "images/logo/mark.png" : "images/calendar.png" %>
+<% about_icon_style = resource.relative_url == "/about/" ? "icon-fill" : "icon-outline" %>
+
+<header class="sticky top-0 bg-z0/80 backdrop-blur-lg z-50">
+  <s-container class="py-3 flex justify-between items-center">
+    <a href="<%= relative_url "/" %>">
+      <img src="<%= relative_url main_icon %>" alt="Se fem?" class="w-9">
+    </a>
+
+    <% unless resource.data.sticky_title.nil? %>
+      <div class="transition-opacity duration-300 opacity-0"
+           data-controller="sticky-title"
+           data-sticky-title-visibility-class="opacity-0"
+           data-action="scroll@document->sticky-title#changeVisibility"
+      >
+        <%= resource.data.sticky_title %>
+      </div>
+    <% end %>
+
+    <a href="<%= relative_url "about" %>" class="flex">
+      <span class="material-symbols-outlined icon-2xl <%= about_icon_style %>">tips_and_updates</span>
+    </a>
+  </s-container>
+</header>

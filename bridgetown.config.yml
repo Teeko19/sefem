@@ -29,6 +29,17 @@ template_engine: erb
 # If you're using esbuild for frontend assets, edit `esbuild.config.js` to
 # update `publicPath`.
 
-# timezone: America/Los_Angeles
+timezone: Etc/UTC
 # pagination:
 #   enabled: true
+
+collections:
+  months:
+    output: true
+    permalink: /:title/
+    sort_by: number
+  events:
+    output: false
+    permalink: pretty
+    future: true
+    sort_by: starts_at

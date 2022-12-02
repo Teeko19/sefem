@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<% resource.data.sticky_title = capture do %>
+  <p class="text-2xl font-medium"><%= resource.data.title %> <%= DateTime.now().year %></p>
+<% end %>
+
+<% events_in_year_and_month = collections.events.resources.filter { |e|
+                                e.data.starts_at.year == DateTime.now().year &&
+                                e.data.starts_at.month == resource.data.number
+                              }
+%>
+
+<div data-controller="search filter">
+  <s-section>
+    <s-container>
+      <h1 class="text-6xl font-medium mb-6">
+        <%= resource.data.title %> <%= DateTime.now().year %>
+      </h1>
+
+      <div class="flex flex-wrap gap-x-6 gap-y-2">
+        <div>
+          <span class="text-2xl font-medium text-fg-secondary">Città:</span>
+          <select class="p-0 text-2xl font-medium bg-transparent border-none focus:ring-0">
+            <option value="">
+              Tutte
+            </option>
+          </select>
+        </div>
+
+        <div>
+          <span class="text-2xl font-medium text-fg-secondary">Attività:</span>
+          <select class="p-0 text-2xl font-medium bg-transparent border-none focus:ring-0">
+            <option value="">
+              Tutte
+            </option>
+          </select>
+        </div>
+
+        <div>
+          <span class="text-2xl font-medium text-fg-secondary">Cerca:</span>
+          <input type="search"
+                 class="item p-0 text-2xl font-medium bg-transparent border-none focus:ring-0 placeholder:text-fg-tertiary"
+                 placeholder="Tutti gli eventi..."
+                 data-search-target="input"
+                 data-action="input->search#query search->search#query"
+          >
+        </div>
+      </div>
+    </s-container>
+  </s-section>
+
+  <s-section class="mb-32">
+    <s-container>
+      <div class="grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-6">
+        <% events_in_year_and_month.each do |event| %>
+          <%= render "event", event: event, month: resource %>
+        <% end %>
+      </div>
+    </s-container>
+  </s-section>
+</div>

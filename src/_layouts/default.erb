@@ -3,13 +3,13 @@
   <head>
     <%= render "head", metadata: site.metadata, title: resource.data.title %>
   </head>
-  <body class="<%= resource.data.layout %> <%= resource.data.page_class %>">
-    <%= render Shared::Navbar.new(metadata: site.metadata, resource: resource) %>
+  <body class="bg-z0 text-fg <%= resource.data.layout %> <%= resource.data.page_class %>">
+    <%= render "header" %>
 
     <main>
       <%= yield %>
     </main>
 
-    <%= render "footer", metadata: site.metadata %>
+    <%# render "footer", metadata: site.metadata %>
   </body>
 </html>

@@ -1,0 +1,106 @@
+<div class="relative rounded-xl overflow-hidden will-change-transform"
+     data-search-target="querable"
+     data-search-keys="<%= event_search_keys event %>"
+     data-filter-target="filterable"
+     data-filter-city="<%= event.data.location&.city %>"
+     data-filter-tags="<%= event.taxonomies.tag.terms.map { |t| t.label }.inspect %>"
+>
+  <img src="<%= relative_url event.data.thumbnail %>"
+       alt="<%= event.data.title %>"
+       loading="lazy"
+       class="absolute top-0 left-0 w-full z-0 object-cover object-center opacity-20"
+  >
+
+  <div class="absolute z-0 w-full h-full backdrop-blur-sm"></div>
+
+  <div class="p-4 relative z-10 h-full flex flex-col gap-4">
+    <div class="grid grid-cols-[max-content,1fr]">
+      <div class="flex gap-1.5 items-start">
+        <div class="aspect-square w-10 flex items-center justify-center rounded-lg"
+             style="background-color: <%= month.data.color %>"
+        >
+          <p class="text-2xl font-medium p-1">
+            <%= event.data.starts_at.day %>
+          </p>
+        </div>
+
+        <% if event_with_multiple_days? event %>
+          <div class="aspect-square w-10 flex items-center justify-center rounded-lg"
+               style="background-color: <%= month.data.color %>"
+          >
+            <p class="text-2xl font-medium p-1">
+              <%= event.data.ends_at.day %>
+            </p>
+          </div>
+        <% end %>
+      </div>
+
+      <div class="flex flex-col items-end gap-1">
+        <p class="font-medium uppercase flex items-center gap-1">
+          <span class="material-symbols-outlined icon-outline icon-sm">place</span>
+          <span class="line-clamp-1"><%= event.data.location.city %></span>
+        </p>
+
+        <div class="text-fg-secondary">
+          <% event.taxonomies.tag.terms.each do |tag| %>
+            <span class="material-symbols-outlined icon-sm">
+              <%= event_tag_icon tag %>
+            </span>
+          <% end %>
+        </div>
+      </div>
+    </div>
+
+    <h4 class="flex-grow text-2xl font-medium line-clamp-2">
+      <%= event.data.title %>
+    </h4>
+
+    <div class="flex gap-8 text-fg-secondary">
+      <div>
+        <p class="flex items-center gap-1">
+          <span class="material-symbols-outlined icon-sm">map</span>
+          <span class="line-clamp-1"><%= event.data.location.address %></span>
+        </p>
+
+        <p class="flex items-center gap-1.5">
+          <span class="material-symbols-outlined icon-sm">schedule</span>
+          <span class="line-clamp-1">
+            <% if event_with_multiple_days? event %>
+              dalle <%= format('%02d', event.data.starts_at&.hour) %>
+              del <%= event.data.starts_at.day %>
+              alle <%= format('%02d', event.data.ends_at.hour) %>
+              del <%= event.data.ends_at.day %>
+            <% else %>
+              dalle <%= format('%02d', event.data.starts_at&.hour) %>
+              <% if event.data.ends_at.present? %>
+                alle <%= format('%02d', event.data.ends_at.hour) %>
+              <% end %>
+            <% end %>
+          </span>
+        </p>
+      </div>
+
+      <div class="flex-shrink-0">
+        <% if event.data.link.present? %>
+          <a href="<%= event.data.link %>"
+             target="_blank"
+             class="flex items-center gap-1.5 hover:text-fg"
+          >
+            <span class="material-symbols-outlined icon-sm">link</span>
+            <span>Dettagli</span>
+          </a>
+        <% end %>
+
+        <% if event.data.poster.present? %>
+          <a href="<%= relative_url event.data.poster %>"
+             target="_blank"
+             class="flex items-center gap-1.5 hover:text-fg"
+          >
+            <span class="material-symbols-outlined icon-sm">receipt_long</span>
+            <span>Locandina</span>
+          </a>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,77 @@
+backend:
+  name: git-gateway
+  branch: main
+  use_large_media_transforms_in_media_library: false
+
+local_backend: true
+
+media_folder: src/images/uploads
+public_folder: images/uploads
+
+collections:
+  - label: Events
+    name: events
+    folder: src/_events
+    create: true
+    format: frontmatter
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: event
+      - label: Titolo
+        name: title
+        widget: string
+        required: true
+      - label: Inizio
+        name: starts_at
+        widget: date
+        default: ""
+        format: YYYY-MM-DDTHH:mm:ss
+        date_format: DD/MM/YYYY
+        time_format: HH:mm
+        required: true
+      - label: Fine
+        name: ends_at
+        widget: date
+        default: ""
+        format: YYYY-MM-DDTHH:mm:ss
+        date_format: DD/MM/YYYY
+        time_format: HH:mm
+        required: false
+      - label: Tag
+        name: tags
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - Famiglie
+          - Film
+          - Mercatino
+          - Musica
+          - Natura
+          - Street Food
+          - Teatro
+      - label: Luogo
+        name: location
+        widget: object
+        fields:
+          - label: Città
+            name: city
+            widget: string
+          - label: Indirizzo
+            name: address
+            widget: string
+      - label: Link
+        name: link
+        widget: string
+        required: false
+      - label: Thumbnail
+        name: thumbnail
+        widget: image
+        allow_multiple: false
+      - label: Locandina
+        name: poster
+        widget: image
+        required: false
+        allow_multiple: false

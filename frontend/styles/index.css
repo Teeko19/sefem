@@ -1,3 +1,12 @@
+/* FONTS */
+@import "https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,300..900&display=swap";
+
+/* ICONS */
+@import "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200";
+
+@import "forms";
+
 /* If you need to add @import statements, do so up here */
 
 @import "jit-refresh.css"; /* triggers frontend rebuilds */
@@ -7,87 +16,81 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --body-background: #f2f2f2;
-  --body-color: #444;
-  --heading-color: black;
-  --action-color: #d64045;
-}
-
-body {
-  background: var(--body-background);
-  color: var(--body-color);
-  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    "Helvetica", "Arial", sans-serif;
-  margin: 0 8px;
-  font-size: 108%;
-  line-height: 1.5;
-}
-
-a {
-  color: var(--action-color);
-  text-decoration: underline;
-  text-decoration-color: #ffb088;
-}
-
-h1 {
-  margin: 1rem 0 3rem;
-  text-align: center;
-  font-weight: 900;
-  font-size: 2.5rem;
-  color: var(--heading-color);
-  line-height: 1.2;
-}
-
-body > header {
-  margin: 1rem;
-  text-align: center;
-}
-
-body > header img {
-  display: inline-block;
-  width: 400px;
-  max-width: 100%;
-}
-
-body > nav ul {
-  margin: 2rem 0;
-  padding: 0;
-  list-style-type: none;
-  display: flex;
-  justify-content: center;
-  gap: 1.5rem;
-  font-size: 1.3rem;
-  font-weight: bold;
-}
-
-body > nav a {
-  text-decoration: none;
-}
-
-main {
-  margin: 2rem auto 4rem;
-  max-width: 65rem;
-  min-height: calc(100vh - 200px);
-  padding: 25px 25px 50px;
-  background: white;
-  box-shadow: 2px 3px 3px #ddd;
-  border-radius: 3px;
-
-  @media (max-width: 500px) {
-    padding: 16px 16px 50px;
+@layer base {
+  turbo-frame {
+    display: contents;
   }
 }
 
-footer {
-  text-align: center;
-  margin-bottom: 4rem;
-  font-size: 1em;
+@layer components {
+  s-section, .s-section {
+    display: block;
+    margin: theme("spacing.16") 0;
+  }
+
+  s-container, .s-container {
+    display: block;
+    margin: 0 auto;
+    padding: 0 theme("spacing.6");
+    max-width: theme("screens.2xl");
+  }
+
+  /* Icon styles */
+  .material-symbols-outlined {
+    font-variation-settings: "FILL" 1, "wght" 400, "GRAD" 0, "opsz" 48;
+    user-select: none;
+  }
+  .material-symbols-outlined.icon-outline {
+    font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+  }
+  .material-symbols-outlined.icon-fill {
+    font-variation-settings: "FILL" 1, "wght" 400, "GRAD" 0, "opsz" 48;
+  }
 }
 
-hr {
-  border: none;
-  border-top: 2px dotted #bbb;
-  margin: 3rem 0;
+@layer utilities {
+  .hidden-details > summary {
+    list-style: none;
+  }
+  .hidden-details > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  /* Icon sizes */
+  .icon-xs {
+    font-size: 16px;
+  }
+  .icon-sm {
+    font-size: 20px;
+  }
+  .icon-base {
+    font-size: 24px;
+  }
+  .icon-lg, .icon-xl {
+    font-size: 28px;
+  }
+  .icon-2xl {
+    font-size: 32px;
+  }
+  .icon-3xl {
+    font-size: 36px;
+  }
+  .icon-4xl {
+    font-size: 40px;
+  }
+  .icon-5xl {
+    font-size: 48px;
+  }
+  .icon-6xl {
+    font-size: 60px;
+  }
+  .icon-7xl {
+    font-size: 72px;
+  }
+  .icon-8xl {
+    font-size: 96px;
+  }
+  .icon-9xl {
+    font-size: 128px;
+  }
 }
