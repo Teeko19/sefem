@@ -1,14 +1,15 @@
 class Builders::Helpers < SiteBuilder
   def build
+    helper :l
     helper :event_search_keys
     helper :event_with_multiple_days?
-    helper :event_tag_icon
+    helper :event_ends_next_month?
+    helper :event_tag_details
+    helper :month_for_date
   end
 
-  FOO = 1 # should be highlighted as "write"
-
-  def foo
-    FOO # should be highlighted as "read"
+  def l(object, **options)
+    I18n.localize(object, **options)
   end
 
   def event_search_keys(event)
@@ -22,25 +23,26 @@ class Builders::Helpers < SiteBuilder
   end
 
   def event_with_multiple_days?(event)
-    event.data.ends_at.present? && event.data.starts_at.day != event.data.ends_at.day
+    starts_at = event.data.starts_at
+    ends_at   = event.data.ends_at
+
+    ends_at.present? && (starts_at.day != ends_at.day || starts_at.month != ends_at.month)
   end
 
-  def event_tag_icon(tag)
-    case tag.label
-    when "Famiglie"
-      "family_restroom"
-    when "Film"
-      "movie"
-    when "Mercatino"
-      "storefront"
-    when "Musica"
-      "music_note"
-    when "Natura"
-      "forest"
-    when "Street Food"
-      "fastfood"
-    when "Teatro"
-      "theater_comedy"
-    end
+  def event_ends_next_month?(event)
+    starts_at = event.data.starts_at
+    ends_at   = event.data.ends_at
+
+    ends_at.present? && starts_at.month != ends_at.month
+  end
+
+  def event_tag_details(tag)
+    tag_details = site.data.tags.select { |key, value| value&.title == tag&.label }&.first&.last
+
+    tag_details || HashWithDotAccess::Hash.new
+  end
+
+  def month_for_date(date)
+    site.collections.months.resources_by_slug[date.month.to_s]
   end
 end

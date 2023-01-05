@@ -18,7 +18,8 @@ module.exports = {
         fg: {
           DEFAULT: "#ffffff",
           secondary: "rgba(255, 255, 255, 0.8)",
-          tertiary: "rgba(255, 255, 255, 0.6)"
+          tertiary: "rgba(255, 255, 255, 0.6)",
+          inverted: "#051D23"
         },
         month: {
           1: "#00909B",

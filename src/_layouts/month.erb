@@ -3,46 +3,60 @@ layout: default
 ---
 
 <% resource.data.sticky_title = capture do %>
-  <p class="text-2xl font-medium"><%= resource.data.title %> <%= DateTime.now().year %></p>
+  <div class="transition-opacity duration-300 opacity-0"
+       data-controller="sticky-title"
+       data-sticky-title-visibility-class="opacity-0"
+       data-action="scroll@document->sticky-title#changeVisibility"
+  >
+    <p class="text-xl sm:text-2xl font-medium"><%= resource.data.title %> <%= DateTime.now().year %></p>
+  </div>
 <% end %>
 
 <% events_in_year_and_month = collections.events.resources.filter { |e|
                                 e.data.starts_at.year == DateTime.now().year &&
-                                e.data.starts_at.month == resource.data.number
+                                e.data.starts_at.month == resource.data.number ||
+                                e.data.ends_at.year == DateTime.now().year &&
+                                e.data.ends_at.month == resource.data.number
                               }
 %>
 
-<div data-controller="search filter">
+<div data-controller="search filter" data-action="search:query->filter#reset">
   <s-section>
     <s-container>
-      <h1 class="text-6xl font-medium mb-6">
+      <h1 class="text-4xl lg:text-6xl font-medium mb-6">
         <%= resource.data.title %> <%= DateTime.now().year %>
       </h1>
 
       <div class="flex flex-wrap gap-x-6 gap-y-2">
         <div>
-          <span class="text-2xl font-medium text-fg-secondary">Città:</span>
-          <select class="p-0 text-2xl font-medium bg-transparent border-none focus:ring-0">
-            <option value="">
-              Tutte
-            </option>
+          <span class="text-xl sm:text-2xl font-medium text-fg-secondary">Località:</span>
+          <select name="city"
+                  class="py-0 px-1 text-xl sm:text-2xl font-medium bg-transparent border-none focus:ring-0"
+                  data-filter-target="city"
+                  data-action="change->filter#apply"
+                  data-filter-options-param="cities"
+          >
+            <option value="all">Tutte</option>
           </select>
         </div>
 
         <div>
-          <span class="text-2xl font-medium text-fg-secondary">Attività:</span>
-          <select class="p-0 text-2xl font-medium bg-transparent border-none focus:ring-0">
-            <option value="">
-              Tutte
-            </option>
+          <span class="text-xl sm:text-2xl font-medium text-fg-secondary">Attività:</span>
+          <select name="tag"
+                  class="py-0 px-1 text-xl sm:text-2xl font-medium bg-transparent border-none focus:ring-0"
+                  data-filter-target="tag"
+                  data-action="change->filter#apply"
+                  data-filter-options-param="tags"
+          >
+            <option value="all">Tutte</option>
           </select>
         </div>
 
-        <div>
-          <span class="text-2xl font-medium text-fg-secondary">Cerca:</span>
+        <div class="flex gap-1">
+          <span class="text-xl sm:text-2xl font-medium text-fg-secondary">Cerca:</span>
           <input type="search"
-                 class="item p-0 text-2xl font-medium bg-transparent border-none focus:ring-0 placeholder:text-fg-tertiary"
-                 placeholder="Tutti gli eventi..."
+                 class="w-full py-0 px-1 text-xl sm:text-2xl font-medium bg-transparent border-none focus:ring-0 placeholder:text-fg-tertiary"
+                 placeholder="In tutti gli eventi..."
                  data-search-target="input"
                  data-action="input->search#query search->search#query"
           >

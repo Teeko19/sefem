@@ -29,6 +29,10 @@ template_engine: erb
 # If you're using esbuild for frontend assets, edit `esbuild.config.js` to
 # update `publicPath`.
 
+available_locales: [it]
+default_locale: it
+prefix_default_locale: false
+
 timezone: Etc/UTC
 # pagination:
 #   enabled: true

@@ -8,13 +8,7 @@
     </a>
 
     <% unless resource.data.sticky_title.nil? %>
-      <div class="transition-opacity duration-300 opacity-0"
-           data-controller="sticky-title"
-           data-sticky-title-visibility-class="opacity-0"
-           data-action="scroll@document->sticky-title#changeVisibility"
-      >
-        <%= resource.data.sticky_title %>
-      </div>
+      <%= resource.data.sticky_title %>
     <% end %>
 
     <a href="<%= relative_url "about" %>" class="flex">

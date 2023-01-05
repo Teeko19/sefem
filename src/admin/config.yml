@@ -14,6 +14,8 @@ collections:
     folder: src/_events
     create: true
     format: frontmatter
+    editor:
+      preview: false
     fields:
       - label: Layout
         name: layout
@@ -39,19 +41,29 @@ collections:
         date_format: DD/MM/YYYY
         time_format: HH:mm
         required: false
-      - label: Tag
+      - label: Tags
         name: tags
-        widget: select
+        widget: relation
+        collection: tags
+        value_field: title
+        search_fields:
+          - title
         multiple: true
         required: false
-        options:
-          - Famiglie
-          - Film
-          - Mercatino
-          - Musica
-          - Natura
-          - Street Food
-          - Teatro
+
+      # - label: Tag
+      #   name: tags
+      #   widget: select
+      #   multiple: true
+      #   required: false
+      #   options:
+      #     - Famiglie
+      #     - Film
+      #     - Mercatino
+      #     - Musica
+      #     - Natura
+      #     - Street Food
+      #     - Teatro
       - label: Luogo
         name: location
         widget: object
@@ -69,9 +81,37 @@ collections:
       - label: Thumbnail
         name: thumbnail
         widget: image
-        allow_multiple: false
+        required: false
+        hint: Se impostata, la thumbnail avrà la precedenza su quella fornita dal tag.
       - label: Locandina
         name: poster
         widget: image
         required: false
         allow_multiple: false
+  - label: Tags
+    name: tags
+    folder: src/_data/tags
+    create: true
+    format: yml
+    editor:
+      preview: false
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        require: true
+      - label: Icon
+        name: icon
+        widget: string
+        require: true
+      - label: Thumbnails
+        name: thumbnails
+        widget: list
+        label_singular: Thumbnail
+        require: true
+        minimize_collapsed: true
+        field:
+          label: Thumbnail
+          name: thumbnail
+          widget: image
+          require: true

@@ -33,7 +33,11 @@ gem "bridgetown", "~> 1.1.0"
 gem "puma", "~> 5.6"
 
 group :development do
-  gem "ruby-lsp", require: false
-  gem "rubocop", require: false
-  gem "rubocop-shopify", require: false
+  gem "solargraph", "~> 0.48.0", require: false
+  gem "solargraph-syntax-suggest", "~> 0.1.0", require: false
+
+  gem "rubocop", "~> 1.42", require: false
+  gem "rubocop-github", "~> 0.20.0", require: false
+  gem "rubocop-performance", "~> 1.15", require: false
+  gem "rubocop-rails", "~> 2.17", require: false
 end

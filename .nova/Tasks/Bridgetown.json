@@ -1,7 +1,19 @@
 {
   "extension" : {
-    "identifier" : "com.tommasonegri.Rails",
-    "name" : "Ruby on Rails"
+    "identifier" : "com.tommasonegri.bridgetown",
+    "name" : "Bridgetown"
   },
-  "extensionTemplate" : "bridgetown"
+  "extensionTemplate" : "bridgetown",
+  "extensionValues" : {
+    "advanced.configFiles" : [
+
+    ],
+    "advanced.console.output" : "Standard",
+    "advanced.watch.liveReload" : true,
+    "advanced.watch.regeneration" : true,
+    "advanced.watch.trace" : true,
+    "directories.plugins" : [
+      "\/plugins"
+    ]
+  }
 }
