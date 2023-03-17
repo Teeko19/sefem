@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<% resource.data.sticky_title = capture do %>
+  <img src="<%= relative_url "images/logo/logotype.svg" %>" alt="Se fem?" class="h-8 sm:hidden">
+<% end %>
+
+<h1 class="sr-only">Se fem?</h1>
+
+<s-section class="hidden sm:block">
+  <s-container class="w-2/3 lg:w-1/3">
+    <img src="<%= relative_url "images/logo/logotype.svg" %>" alt="Se fem?">
+  </s-container>
+</s-section>
+
+<s-section class="h-[calc(100vh-60px)] m-0 sm:h-auto sm:my-16 flex items-center justify-center">
+  <s-container class="max-w-screen-md lg:max-w-screen-xl">
+    <nav>
+      <ul class="grid grid-cols-3 lg:grid-cols-6 gap-6">
+        <% collections.months.resources.each do |month| %>
+          <li>
+            <a href="<%= relative_url month %>">
+              <img src="<%= relative_url "images/months/#{month.data.slug}.png" %>"
+                   alt="<%= month.data.title %>"
+              >
+            </a>
+          </li>
+        <% end %>
+      </ul>
+    </nav>
+  </s-container>
+</s-section>
+
+<!-- <turbo-frame id="upcomings" src="<%= relative_url "events" %>" target="_top"></turbo-frame> -->

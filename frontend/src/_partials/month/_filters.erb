@@ -1,0 +1,39 @@
+<div class="flex flex-wrap gap-x-6 gap-y-2">
+  <div>
+    <span class="text-xl sm:text-2xl font-medium text-fg-tertiary">Cerco</span>
+    <select name="tag"
+            class="py-0 px-1 text-xl sm:text-2xl font-medium bg-transparent border-none rounded-lg focus:ring-2"
+            data-filter-target="tag"
+            data-action="change->filter#apply"
+            data-filter-options-param="tags"
+    >
+      <option value="all">🎪 qualunque attività</option>
+    </select>
+
+    <span class="text-xl sm:text-2xl font-medium text-fg-tertiary">che si svolga</span>
+    <select name="time"
+            class="py-0 px-1 text-xl sm:text-2xl font-medium bg-transparent border-none rounded-lg focus:ring-2 hidden"
+            data-filter-target="time"
+            data-action="change->filter#apply"
+            data-filter-options-param="times"
+    >
+      <option value="month">🕰 nel corso di questo mese</option>
+      <option value="today">oggi</option>
+      <option value="tomorrow">domani</option>
+      <option value="saturday">sabato</option>
+      <option value="sunday">domenica</option>
+      <option value="weekend">nel weekend</option>
+      <option value="next_week">settimana prossima</option>
+    </select>
+
+    <span class="text-xl sm:text-2xl font-medium text-fg-tertiary">nei pressi di</span>
+    <select name="city"
+            class="py-0 px-1 text-xl sm:text-2xl font-medium bg-transparent border-none rounded-lg focus:ring-2"
+            data-filter-target="city"
+            data-action="change->filter#apply"
+            data-filter-options-param="cities"
+    >
+      <option value="all">🏔️ qualsiasi località</option>
+    </select>
+  </div>
+</div>

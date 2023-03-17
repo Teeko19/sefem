@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<% resource.data.sticky_title = capture do %>
+  <div class="transition-opacity duration-300 opacity-0"
+       data-controller="sticky-title"
+       data-sticky-title-visibility-class="opacity-0"
+       data-action="scroll@document->sticky-title#changeVisibility"
+  >
+    <p class="text-xl sm:text-2xl font-medium"><%= resource.data.title %> <%= DateTime.now().year %></p>
+  </div>
+<% end %>
+
+<% events_in_year_and_month = collections.events.resources.filter { |e|
+                                e.data.starts_at.year == DateTime.now().year &&
+                                e.data.starts_at.month == resource.data.number ||
+                                e.data.ends_at&.year == DateTime.now().year &&
+                                e.data.ends_at&.month == resource.data.number
+                              }
+%>
+
+<div data-controller="search filter alternatives"
+     data-action="search:query->filter#reset filter:applied->alternatives#toggle"
+     data-filter-current-month-value="<%= resource.data.number %>"
+>
+  <s-section>
+    <s-container>
+      <h1 class="text-4xl lg:text-6xl font-medium mb-6">
+        <%= resource.data.title %> <%= DateTime.now().year %>
+      </h1>
+
+      <%= render "month/filters" %>
+    </s-container>
+  </s-section>
+
+  <s-section class="mb-32">
+    <s-container>
+      <div class="grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-6"
+           data-alternatives-target="events"
+      >
+        <% events_in_year_and_month.each do |event| %>
+          <%= render "event", event: event, current_month: resource %>
+        <% end %>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-6 hidden"
+           data-alternatives-target="notice"
+      >
+        <p class="col-span-2 text-xl sm:text-2xl font-medium text-fg-tertiary">
+          Nessun evento in calendario...<br>
+          Sembra l'occasione perfetta per <span data-alternatives-target="content"></span>
+        </p>
+      </div>
+    </s-container>
+  </s-section>
+</div>

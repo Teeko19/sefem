@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<% events_in_year = collections.events.resources.filter { |e|
+                      e.data.starts_at.year == DateTime.now().year ||
+                      e.data.ends_at&.year == DateTime.now().year
+                    }
+%>
+
+<turbo-frame id="upcomings" target="_top">
+  <div>
+    <s-section class="mb-32">
+      <s-container>
+        <div class="grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 gap-6">
+          <% events_in_year.each do |event| %>
+            <%= render "event", event: event %>
+          <% end %>
+        </div>
+      </s-container>
+    </s-section>
+  </div>
+</turbo-frame>
