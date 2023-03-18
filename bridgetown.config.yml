@@ -17,8 +17,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
-url: "https://tommasongr.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-base_path: "/sefem"
+url: "https://radiant-longma-0fe4b6.netlify.app" # the base hostname & protocol for your site, e.g. https://example.com
 
 permalink: pretty
 template_engine: erb
