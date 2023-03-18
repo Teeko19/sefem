@@ -1,0 +1,111 @@
+backend:
+  name: git-gateway
+  branch: main
+  use_large_media_transforms_in_media_library: false
+
+local_backend: true
+
+media_folder: src/images/uploads
+public_folder: images/uploads
+
+collections:
+  - label: Events
+    name: events
+    folder: src/_events
+    path: "{{year}}/{{slug}}"
+    media_folder: "../../../{{media_folder}}"
+    public_folder: "{{public_folder}}"
+    create: true
+    format: frontmatter
+    editor:
+      preview: false
+    sortable_fields: ["title", "starts_at", "ends_at"]
+    view_groups:
+      - label: Anno
+        field: starts_at
+        pattern: \d{4}
+    fields:
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: event
+      - label: Titolo
+        name: title
+        widget: string
+        required: true
+      - label: Inizio
+        name: starts_at
+        widget: date
+        default: ""
+        format: YYYY-MM-DDTHH:mm:ss
+        date_format: DD/MM/YYYY
+        time_format: HH:mm
+        required: true
+      - label: Fine
+        name: ends_at
+        widget: date
+        default: ""
+        format: YYYY-MM-DDTHH:mm:ss
+        date_format: DD/MM/YYYY
+        time_format: HH:mm
+        required: false
+      - label: Tags
+        name: tags
+        widget: relation
+        collection: tags
+        value_field: title
+        search_fields:
+          - title
+        multiple: true
+        required: false
+      - label: Luogo
+        name: location
+        widget: object
+        fields:
+          - label: Città
+            name: city
+            widget: string
+          - label: Indirizzo
+            name: address
+            widget: string
+      - label: Link
+        name: link
+        widget: string
+        required: false
+      - label: Thumbnail
+        name: thumbnail
+        widget: image
+        required: false
+        hint: Se impostata, la thumbnail avrà la precedenza su quella fornita dal tag.
+      - label: Locandina
+        name: flyer
+        widget: image
+        required: false
+        allow_multiple: false
+  - label: Tags
+    name: tags
+    folder: src/_data/tags
+    create: true
+    format: yml
+    editor:
+      preview: false
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        require: true
+      - label: Icon
+        name: icon
+        widget: string
+        require: true
+      - label: Thumbnails
+        name: thumbnails
+        widget: list
+        label_singular: Thumbnail
+        require: true
+        minimize_collapsed: true
+        field:
+          label: Thumbnail
+          name: thumbnail
+          widget: image
+          require: true

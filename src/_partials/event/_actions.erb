@@ -1,0 +1,103 @@
+<div class="grid grid-cols-[repeat(2,minmax(max-content,1fr))] grid-cols-[repeat(3,minmax(max-content,1fr))] gap-2 text-sm text-fg-secondary select-none">
+  <details class="hidden-details"
+           data-controller="popup float"
+           data-action="toggle->float#arrange"
+  >
+    <summary class="px-3 py-1.5 rounded-lg flex items-center justify-center gap-1.5 bg-white/10 hover:bg-white/20 backdrop-blur-lg cursor-pointer"
+             data-float-target="origin"
+    >
+      <span class="material-symbols-outlined icon-sm">info</span>
+      <span class="hidden sm:inline">Dettagli</span>
+    </summary>
+
+    <div class="w-max max-w-[calc(100vw-80px)] sm:max-w-sm z-20 overflow-x-scroll"
+         data-float-target="floatable"
+    >
+      <div class="p-3 rounded-lg bg-white/20 backdrop-blur-lg flex flex-col gap-1.5">
+        <p class="flex items-start gap-1.5">
+          <span class="material-symbols-outlined icon-sm">schedule</span>
+          <% if event_with_multiple_days? event %>
+            <span class="text-fg-tertiary">Dal</span>
+            <%= event.data.starts_at.strftime("%d/%m %H:%M") %>
+            <span class="text-fg-tertiary">al</span>
+            <%= event.data.ends_at.strftime("%d/%m %H:%M") %>
+          <% elsif event.data.ends_at.present? %>
+            <span class="text-fg-tertiary">Dalle</span>
+            <%= event.data.starts_at.strftime("%H:%M") %>
+            <span class="text-fg-tertiary">alle</span>
+            <%= event.data.ends_at.strftime("%H:%M") %>
+          <% else %>
+            Tutto il giorno
+          <% end %>
+        </p>
+
+        <p class="flex items-start gap-1.5">
+          <span class="material-symbols-outlined icon-sm">map</span>
+          <%= event.data.location&.address %>
+        </p>
+
+        <% if event.data.link.present? %>
+          <a href="<%= event.data.link %>"
+             class="flex items-start gap-1.5 hover:text-fg"
+          >
+            <span class="material-symbols-outlined icon-sm">link</span>
+            Link
+          </a>
+        <% end %>
+
+        <% if event.data.flyer.present? %>
+          <a href="<%= relative_url event.data.flyer %>"
+             class="flex items-start gap-1.5 hover:text-fg"
+          >
+            <span class="material-symbols-outlined icon-sm">receipt_long</span>
+            Locandina
+          </a>
+        <% end %>
+      </div>
+    </div>
+  </details>
+
+  <a href="<%= relative_url event.data.ical %>"
+     class="px-3 py-1.5 rounded-lg flex items-center justify-center gap-1.5 bg-white/10 hover:bg-white/20 backdrop-blur-lg"
+  >
+    <span class="material-symbols-outlined icon-sm">notifications_active</span>
+    <span class="hidden sm:inline">Ricordamelo</span>
+  </a>
+
+  <details class="hidden-details"
+           data-controller="popup float"
+           data-float-placement-value="bottom-end"
+           data-action="toggle->float#arrange"
+  >
+    <summary class="px-3 py-1.5 rounded-lg flex items-center justify-center gap-1.5 bg-white/10 hover:bg-white/20 backdrop-blur-lg cursor-pointer"
+             data-float-target="origin"
+    >
+      <span class="material-symbols-outlined icon-sm">share</span>
+      <span class="hidden sm:inline">Condividi</span>
+    </summary>
+
+    <div class="w-max max-w-[calc(100vw-80px)] sm:max-w-sm z-20 overflow-x-scroll"
+         data-float-target="floatable"
+    >
+      <div class="p-3 rounded-lg bg-white/20 backdrop-blur-lg flex flex-col gap-1.5">
+        <button class="flex items-start gap-1.5 hover:text-fg"
+                data-controller="share"
+                data-share-data-value='{ "title": "<%= event.data.title %>", "url": "<%= relative_url resource %>#<%= event.relative_path.basename(".*").to_s %>" }'
+                data-action="click->share#execute"
+        >
+          <span class="material-symbols-outlined icon-sm">link</span>
+          Come link a questa pagina
+        </button>
+
+        <button class="flex items-start gap-1.5 hover:text-fg"
+                data-controller="share"
+                data-share-data-value='{ "title": "<%= event.data.title %>", "files": ["<%= relative_url event.data.ical %>"] }'
+                data-action="click->share#execute"
+        >
+          <span class="material-symbols-outlined icon-sm">event</span>
+          Come evento sul calendario
+        </button>
+      </div>
+    </div>
+  </details>
+</div>
