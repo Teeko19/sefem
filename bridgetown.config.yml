@@ -18,7 +18,7 @@
 #
 
 url: "https://tommasongr.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-base_path: "sefem/"
+base_path: "sefem"
 
 permalink: pretty
 template_engine: erb
