@@ -1,7 +1,6 @@
 class Builders::Helpers < SiteBuilder
   def build
     helper :l
-    helper :remote_asset_url
     helper :event_search_keys
     helper :event_with_multiple_days?
     helper :event_ends_next_month?
@@ -11,10 +10,6 @@ class Builders::Helpers < SiteBuilder
 
   def l(object, **options)
     I18n.localize(object, **options)
-  end
-
-  def remote_asset_url(url)
-    Bridgetown.env.development? ? "http://127.0.0.1:8090/api/files/#{url}" : url
   end
 
   def event_search_keys(event)
