@@ -19,27 +19,17 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 # If you need to upgrade/switch Bridgetown versions, change the line below
 # and then run `bundle update bridgetown`
-gem "bridgetown", "~> 1.1.0"
+gem "bridgetown", "~> 1.2.0"
 
 # Uncomment to add file-based dynamic routing to your project:
-# gem "bridgetown-routes", "~> 1.1.0", group: :bridgetown_plugins
+# gem "bridgetown-routes", "~> 1.2.0"
 
 # Uncomment to use the Inspectors API to manipulate the output
 # of your HTML or XML resources:
-# gem "nokogiri", "~> 1.13"
+gem "nokogiri", "~> 1.14"
 
 # Puma is a Rack-compatible server used by Bridgetown
 # (you can optionally limit this to the "development" group)
 gem "puma", "~> 5.6"
-
-group :development do
-  gem "solargraph", "~> 0.48.0", require: false
-  gem "solargraph-syntax-suggest", "~> 0.1.0", require: false
-
-  gem "rubocop", "~> 1.42", require: false
-  gem "rubocop-github", "~> 0.20.0", require: false
-  gem "rubocop-performance", "~> 1.15", require: false
-  gem "rubocop-rails", "~> 2.17", require: false
-end
 
 gem "icalendar", "~> 2.8"
