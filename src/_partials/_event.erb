@@ -38,7 +38,7 @@
           <p class="text-xl sm:text-2xl font-medium text-center absolute top-0.5 left-0 right-0">
             <%= starts_at.day %>
           </p>
-          <p class="text-xs text-fg-tertiary text-center absolute bottom-0.5 left-0 right-0">
+          <p class="text-xs text-fg-primary text-center absolute bottom-0.5 left-0 right-0">
             <% if locals[:current_month].blank? %>
               <a href="<%= relative_url month_for_date(starts_at) %>">
                 <%= l(starts_at, format: "%b").humanize %>
@@ -60,7 +60,7 @@
             <p class="text-xl sm:text-2xl font-medium text-center absolute top-0.5 left-0 right-0">
               <%= ends_at.day %>
             </p>
-            <p class="text-xs text-fg-tertiary text-center absolute bottom-0.5 left-0 right-0">
+            <p class="text-xs text-fg-primary text-center absolute bottom-0.5 left-0 right-0">
               <% if locals[:current_month].blank? %>
                 <a href="<%= relative_url month_for_date(ends_at) %>">
                   <%= l(ends_at, format: "%b").humanize %>
