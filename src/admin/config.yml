@@ -49,6 +49,10 @@ collections:
         date_format: DD/MM/YYYY
         time_format: HH:mm
         required: false
+      - label: "Tutto il giorno?"
+        name: all_day
+        widget: boolean
+        default: false
       - label: Tags
         name: tags
         widget: relation

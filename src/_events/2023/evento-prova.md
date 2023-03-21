@@ -3,6 +3,7 @@ layout: event
 title: Evento prova
 starts_at: 2023-08-31T15:00:00
 ends_at: 2023-09-13T20:00:00
+all_day: false
 tags:
   - Mercatino
   - Fast food

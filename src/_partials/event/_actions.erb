@@ -16,18 +16,30 @@
       <div class="p-3 rounded-lg bg-white/20 backdrop-blur-lg flex flex-col gap-1.5">
         <p class="flex items-start gap-1.5">
           <span class="material-symbols-outlined icon-sm">schedule</span>
-          <% if event_with_multiple_days? event %>
-            <span class="text-fg-tertiary">Dal</span>
-            <%= event.data.starts_at.strftime("%d/%m %H:%M") %>
-            <span class="text-fg-tertiary">al</span>
-            <%= event.data.ends_at.strftime("%d/%m %H:%M") %>
-          <% elsif event.data.ends_at.present? %>
-            <span class="text-fg-tertiary">Dalle</span>
-            <%= event.data.starts_at.strftime("%H:%M") %>
-            <span class="text-fg-tertiary">alle</span>
-            <%= event.data.ends_at.strftime("%H:%M") %>
+          <% if event.data.all_day %>
+            <% if event_with_multiple_days? event %>
+              <span class="text-fg-tertiary">Dal</span>
+              <%= event.data.starts_at.strftime("%d/%m") %>
+              <span class="text-fg-tertiary">al</span>
+              <%= event.data.ends_at.strftime("%d/%m") %>
+            <% else %>
+              Tutto il giorno
+            <% end %>
           <% else %>
-            Tutto il giorno
+            <% if event_with_multiple_days? event %>
+              <span class="text-fg-tertiary">Dal</span>
+              <%= event.data.starts_at.strftime("%d/%m %H:%M") %>
+              <span class="text-fg-tertiary">al</span>
+              <%= event.data.ends_at.strftime("%d/%m %H:%M") %>
+            <% elsif event.data.ends_at.present? %>
+              <span class="text-fg-tertiary">Dalle</span>
+              <%= event.data.starts_at.strftime("%H:%M") %>
+              <span class="text-fg-tertiary">alle</span>
+              <%= event.data.ends_at.strftime("%H:%M") %>
+            <% else %>
+              <span class="text-fg-tertiary">Dalle</span>
+              <%= event.data.starts_at.strftime("%H:%M") %>
+            <% end %>
           <% end %>
         </p>
 

@@ -3,6 +3,7 @@ layout: event
 title: Sagra di San Carlo
 starts_at: 2023-03-08T09:00:00
 ends_at: 2023-03-09T19:00:00
+all_day: false
 tags:
   - Famiglia
   - Fast food
