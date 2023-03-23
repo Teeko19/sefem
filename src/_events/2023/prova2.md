@@ -7,7 +7,7 @@ all_day: false
 tags:
   - Teatro
 location:
-  city: ABBIATERGRASSO
+  city: Abbiategrasso
   address: via gobetti 10
 thumbnail: images/uploads/pexels-donald-tong-109669-1-.webp
 ---
