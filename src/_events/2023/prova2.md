@@ -9,4 +9,5 @@ tags:
 location:
   city: ABBIATERGRASSO
   address: via gobetti 10
+thumbnail: images/uploads/pexels-donald-tong-109669-1-.webp
 ---
