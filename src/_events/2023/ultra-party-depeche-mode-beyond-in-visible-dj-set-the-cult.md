@@ -10,4 +10,5 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ The Cult Pub"
+thumbnail: images/uploads/elizeu-dias-29qo6ox3gla-unsplash-1-.webp
 ---
