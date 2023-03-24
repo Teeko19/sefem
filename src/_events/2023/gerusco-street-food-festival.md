@@ -12,4 +12,5 @@ tags:
 location:
   city: Robecco
   address: Parco di Borgo Archinito
+thumbnail: images/uploads/anthony-delanoix-hzgs56ze49s-unsplash-1-.webp
 ---
