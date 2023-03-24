@@ -8,7 +8,6 @@ tags:
   - Divertimento
   - Concerto
   - Cibo
-  - Degustazione
 location:
   city: Robecco
   address: Parco di Borgo Archinito
