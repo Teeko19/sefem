@@ -6,6 +6,7 @@ ends_at: 2023-05-01T00:00:00
 all_day: true
 tags:
   - Cibo
+  - Manifestazioni
   - Divertimento
 location:
   city: Robecco
