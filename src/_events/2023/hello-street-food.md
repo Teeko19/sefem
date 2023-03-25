@@ -11,6 +11,6 @@ tags:
 location:
   city: Cusago
   address: Area Mercato Centro Storico
-thumbnail: images/uploads/ashley-owen-cq6jyslww2e-unsplash.webp
+thumbnail: images/uploads/marek-mucha-i7bazo2v9ai-unsplash.webp
 flyer: images/uploads/cusago-in-festa.png
 ---
