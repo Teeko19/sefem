@@ -11,5 +11,6 @@ tags:
 location:
   city: Morimondo
   address: Antico Borgo di Morimondo
+thumbnail: images/uploads/fred-moon-0yqa0rmcsyk-unsplash.webp
 flyer: images/uploads/morimondo-festum.png
 ---
