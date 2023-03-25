@@ -11,4 +11,5 @@ tags:
 location:
   city: Robecco
   address: Parco di Villa Terzagh
+thumbnail: images/uploads/aleksandr-popov-htv8aapzioq-unsplash-1-.webp
 ---
