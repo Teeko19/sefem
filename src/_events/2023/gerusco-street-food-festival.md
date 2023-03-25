@@ -12,4 +12,5 @@ location:
   city: Robecco
   address: Parco di Borgo Archinito
 thumbnail: images/uploads/pexels-luis-quintero-2091374-1-.webp
+flyer: images/uploads/gerusco-street-fest.png
 ---
