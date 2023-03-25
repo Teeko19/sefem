@@ -10,5 +10,6 @@ location:
   city: Casterno di Robecco
   address: Centro Sportivo, via della Chiesa
 link: https://www.calendariopodismo.it/gara/60137/44-marcia-dei-ciliegi-in-fiore
+thumbnail: images/uploads/fitsum-admasu-ogv9xil7dky-unsplash.webp
 flyer: images/uploads/marcia.png
 ---
