@@ -11,4 +11,5 @@ location:
   address: Ex Convento dell’Annunciata
   city: Abbiategrasso
 link: https://www.teatrodeinavigli.com/assaggiamo-il-teatro-2023/
+thumbnail: images/uploads/pexels-ron-lach-10045764-1-.webp
 ---
