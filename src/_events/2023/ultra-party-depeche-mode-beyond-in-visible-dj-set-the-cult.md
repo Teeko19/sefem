@@ -6,7 +6,6 @@ ends_at: ""
 all_day: false
 tags:
   - Divertimento
-  - Concerto
 location:
   city: Abbiategrasso
   address: "@ The Cult Pub"
