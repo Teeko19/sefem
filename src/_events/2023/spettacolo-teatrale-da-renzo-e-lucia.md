@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: sala Polifunzionale, piazza Primo Maggio
+thumbnail: images/uploads/pexels-donald-tong-109669-1-.webp
 flyer: images/uploads/teatro_de-renzo.png
 ---
