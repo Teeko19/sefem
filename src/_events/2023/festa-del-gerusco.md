@@ -10,6 +10,6 @@ tags:
   - Concerti
 location:
   city: Robecco
-  address: Parco di Villa Terzagh
+  address: Parco di Villa Terzaghi
 thumbnail: images/uploads/aleksandr-popov-htv8aapzioq-unsplash-1-.webp
 ---
