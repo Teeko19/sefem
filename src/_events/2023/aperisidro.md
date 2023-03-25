@@ -10,5 +10,6 @@ location:
   city: Magenta
   address: centro Polifunzionale "Mario Leone", via Matteotti
 link: https://www.instagram.com/p/CqLX6q_oCks/
+thumbnail: images/uploads/hermes-rivera-ak6wgqxyhfw-unsplash.webp
 flyer: images/uploads/aperisidro.png
 ---
