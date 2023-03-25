@@ -10,5 +10,6 @@ location:
   city: Abbiategrasso
   address: "@ Divino Enoteca"
 link: https://www.instagram.com/p/CqK9eYTtQOu/
+thumbnail: images/uploads/atthieu-joannon-6cilddtotgm-unsplash.webp
 flyer: images/uploads/tapas-divino.png
 ---
