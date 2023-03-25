@@ -9,5 +9,6 @@ tags:
 location:
   city: Bareggio
   address: Biblioteca, via Marietti
+thumbnail: images/uploads/mel-poole-lbsvzgynzpu-unsplash.webp
 flyer: images/uploads/leggiamoci.png
 ---
