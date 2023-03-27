@@ -6,6 +6,7 @@ ends_at: ""
 all_day: false
 tags:
   - Teatro
+  - Evento per Bambini
 location:
   address: Ex Convento dell’Annunciata
   city: Abbiategrasso
