@@ -5,8 +5,8 @@ starts_at: 2023-04-02T16:00:00
 ends_at: ""
 all_day: false
 tags:
-  - Teatri
-  - Eventi per Bambini
+  - Teatro
+  - Evento per Bambini
 location:
   address: Ex Convento dell’Annunciata
   city: Abbiategrasso
