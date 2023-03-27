@@ -7,6 +7,7 @@ all_day: true
 tags:
   - Divertimento
   - Food & Drink
+  - Manifestazione
 location:
   city: Morimondo
   address: Antico Borgo di Morimondo
