@@ -6,8 +6,7 @@ ends_at: 2023-07-02T00:00:00
 all_day: true
 tags:
   - Divertimento
-  - Cibo
-  - Concerti
+  - Food & Drink
 location:
   city: Robecco
   address: Parco di Villa Terzaghi
