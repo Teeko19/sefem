@@ -5,8 +5,7 @@ starts_at: 2023-05-05T00:00:00
 ends_at: 2023-05-07T00:00:00
 all_day: true
 tags:
-  - Manifestazioni
-  - Cibo
+  - Food & Drink
   - Divertimento
 location:
   city: Cusago
