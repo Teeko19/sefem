@@ -5,7 +5,7 @@ starts_at: 2023-04-01T20:00:00
 ends_at: ""
 all_day: false
 tags:
-  - Cibo
+  - Food & Drink
 location:
   city: Abbiategrasso
   address: "@ Divino Enoteca"
