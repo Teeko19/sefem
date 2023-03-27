@@ -5,9 +5,9 @@ starts_at: 2023-10-13T00:00:00
 ends_at: 2023-10-14T00:00:00
 all_day: true
 tags:
+  - Manifestazione
+  - Food & Drink
   - Divertimento
-  - Cibo
-  - Concerti
 location:
   city: Robecco
   address: Parco di Villa Terzaghi
