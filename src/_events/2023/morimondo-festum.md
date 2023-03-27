@@ -6,8 +6,7 @@ ends_at: 2023-07-09T00:00:00
 all_day: true
 tags:
   - Divertimento
-  - Manifestazioni
-  - Cibo
+  - Food & Drink
 location:
   city: Morimondo
   address: Antico Borgo di Morimondo
