@@ -5,7 +5,7 @@ starts_at: 2023-04-02T18:30:00
 ends_at: ""
 all_day: false
 tags:
-  - Degustazioni
+  - Degustazione
 location:
   city: Magenta
   address: centro Polifunzionale "Mario Leone", via Matteotti
