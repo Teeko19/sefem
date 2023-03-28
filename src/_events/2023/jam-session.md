@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Bik Cafè"
+thumbnail: images/uploads/israel-palacio-y20jj-ddy9m-unsplash-1-.webp
 flyer: images/uploads/jam-session.png
 ---
