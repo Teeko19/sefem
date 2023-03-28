@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: sala Polifunzionale, piazza 1° Maggio
+thumbnail: images/uploads/larisa-birta-slbocnlwnha-unsplash-1-.webp
 flyer: images/uploads/concerto-pasqua.png
 ---
