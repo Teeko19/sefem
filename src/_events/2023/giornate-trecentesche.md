@@ -11,5 +11,6 @@ location:
   city: Morimondo
   address: piazza dell'Abbazia
 link: https://www.instagram.com/p/CqfTvXWrt7i/
+thumbnail: images/uploads/david-dvoracek-3kbizzluhnc-unsplash.webp
 flyer: images/uploads/fronte-ok.jpg
 ---
