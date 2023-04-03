@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Sala "Corbetta di una volta", via Cattaneo 25
+thumbnail: images/uploads/christina-ambalavanar-hdkq06-vxg4-unsplash-_1_.webp
 flyer: images/uploads/mostra-fotografica.png
 ---
