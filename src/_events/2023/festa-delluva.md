@@ -11,5 +11,5 @@ tags:
 location:
   city: Vigano
   address: da definire
-thumbnail: images/uploads/kate-trysh-zuwls_bdgak-unsplash.webp
+thumbnail: images/uploads/chelsea-pridham-mmoxoxe-gj0-unsplash-1-.webp
 ---
