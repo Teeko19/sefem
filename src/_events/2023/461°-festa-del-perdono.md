@@ -12,5 +12,6 @@ tags:
 location:
   city: Corbetta
   address: centro città
+thumbnail: images/uploads/ethan-hoover-zyu2gq9mwlm-unsplash.webp
 flyer: images/uploads/festa-perdono.png
 ---
