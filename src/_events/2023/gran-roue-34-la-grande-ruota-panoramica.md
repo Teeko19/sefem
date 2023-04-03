@@ -11,4 +11,5 @@ location:
   city: Abbiategrasso
   address: piazza Castello
 link: https://www.ilgiorno.it/legnano/cronaca/abbiategrasso-ruota-panoramica-ct30m6tl
+thumbnail: images/uploads/senjuti-kundu-jfolijrnvey-unsplash-1-.webp
 ---
