@@ -11,5 +11,6 @@ tags:
 location:
   city: Corbetta
   address: sala Polifunzionale, Piazza 1° Maggio
+thumbnail: images/uploads/pexels-luis-quintero-2091374-1-.webp
 flyer: images/uploads/concerti.png
 ---
