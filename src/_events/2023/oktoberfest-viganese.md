@@ -11,5 +11,5 @@ tags:
 location:
   city: Vigano
   address: da definire
-thumbnail: images/uploads/chelsea-pridham-mmoxoxe-gj0-unsplash-1-.webp
+thumbnail: images/uploads/fred-moon-0yqa0rmcsyk-unsplash.webp
 ---
