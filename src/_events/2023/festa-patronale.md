@@ -11,5 +11,5 @@ tags:
 location:
   city: Vigano
   address: da definire
-thumbnail: images/uploads/elizeu-dias-29qo6ox3gla-unsplash-1-.webp
+thumbnail: images/uploads/kate-trysh-zuwls_bdgak-unsplash.webp
 ---
