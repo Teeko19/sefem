@@ -11,4 +11,5 @@ tags:
 location:
   city: Vigano
   address: da definire
+thumbnail: images/uploads/anthony-delanoix-hzgs56ze49s-unsplash-1-.webp
 ---
