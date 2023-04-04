@@ -11,4 +11,5 @@ tags:
 location:
   city: Inveruno
   address: da definire
+thumbnail: images/uploads/aleksandr-popov-htv8aapzioq-unsplash-1-.webp
 ---
