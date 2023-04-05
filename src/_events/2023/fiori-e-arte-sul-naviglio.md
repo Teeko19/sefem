@@ -10,4 +10,5 @@ tags:
 location:
   city: Gaggiano
   address: lungo sponde del Naviglio
+thumbnail: images/uploads/vernon-raineil-cenzon-of8u3mrdfmu-unsplash_11zon.jpg
 ---
