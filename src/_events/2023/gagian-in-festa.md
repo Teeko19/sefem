@@ -12,5 +12,5 @@ tags:
 location:
   city: Gaggiano
   address: lungo sponde del Naviglio
-thumbnail: ""
+thumbnail: images/uploads/chris-lawton-vba-jnharai-unsplash-1-.webp
 ---
