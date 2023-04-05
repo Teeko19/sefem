@@ -12,5 +12,5 @@ tags:
 location:
   city: Gaggiano
   address: da definire
-thumbnail: ""
+thumbnail: images/uploads/cmophoto-net-xug7wn6bh4i-unsplash.webp
 ---
