@@ -12,4 +12,5 @@ tags:
 location:
   city: Magenta
   address: Tensostruttura di Piazza mercato
+thumbnail: images/uploads/hanny_naibaho_awxvxy8bszc_unsplash_zbpbab5fd0.jpg
 ---
