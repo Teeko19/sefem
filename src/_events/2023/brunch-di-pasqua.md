@@ -8,5 +8,7 @@ tags:
   - Food & Drink
 location:
   city: Abbiategrasso
-  address: "@ Bar Castello"
+  address: "@ BarCastello"
+link: https://www.instagram.com/p/CqazjurK1hy/?igshid=YmMyMTA2M2Y=
+thumbnail: images/uploads/dro-alimonti-medcac8qfxu-unsplash-1-1-.webp
 ---
