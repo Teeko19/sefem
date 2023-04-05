@@ -10,5 +10,5 @@ tags:
 location:
   city: Gaggiano
   address: da definire
-thumbnail: ""
+thumbnail: images/uploads/anthony-garcia-gthdrlsqehg-unsplash.webp
 ---
