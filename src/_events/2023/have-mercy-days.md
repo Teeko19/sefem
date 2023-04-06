@@ -12,5 +12,6 @@ tags:
 location:
   city: Corbetta
   address: parco di Villa Pagani della Torre
+thumbnail: images/uploads/kate-trysh-zuwls_bdgak-unsplash.webp
 flyer: images/uploads/have-mercy-days.png
 ---
