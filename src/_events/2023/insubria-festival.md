@@ -13,5 +13,6 @@ location:
   city: Marcallo con Casone
   address: Parco Ghiotti, via Vitali
 link: https://www.insubriafestival.org/Index.aspx
+thumbnail: images/uploads/anthony-delanoix-hzgs56ze49s-unsplash-1-.webp
 flyer: images/uploads/insubria-festival.png
 ---
