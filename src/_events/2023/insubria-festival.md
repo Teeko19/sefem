@@ -10,7 +10,7 @@ tags:
   - Divertimento
   - Food & Drink
 location:
-  city: Marcallo con Casone
+  city: Marcallo
   address: Parco Ghiotti, via Vitali
 link: https://www.insubriafestival.org/Index.aspx
 thumbnail: images/uploads/anthony-delanoix-hzgs56ze49s-unsplash-1-.webp
