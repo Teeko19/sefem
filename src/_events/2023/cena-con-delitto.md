@@ -10,4 +10,5 @@ location:
   city: Corbetta
   address: Salone Paolo VI, via Verdi 53
 thumbnail: images/uploads/peter-pham-dmnyfiafyss-unsplash.webp
+flyer: images/uploads/c851f0d2-6ae6-4715-9116-a5e9832f9490.jpeg
 ---
