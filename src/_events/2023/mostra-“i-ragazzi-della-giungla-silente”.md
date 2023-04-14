@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Sala delle Colonne, via C. Cattaneo 25
+thumbnail: images/uploads/markus-spiske-djo4qhtu2sg-unsplash.webp
 flyer: images/uploads/53f5b387-aa4f-453f-8f18-c643e9f0ed4b.jpeg
 ---
