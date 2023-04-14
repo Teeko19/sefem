@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Sala Polifunzionale, piazza 1º Maggio
+thumbnail: images/uploads/kael-bloom-0fko0cli2vq-unsplash-1-.webp
 flyer: images/uploads/e09aa544-0ea3-43ab-965e-8c8bf781995c.jpeg
 ---
