@@ -9,5 +9,6 @@ tags:
 location:
   city: "Abbiategrasso "
   address: "@ Bik cafè"
+thumbnail: images/uploads/pexels-luis-quintero-2091374-1-.webp
 flyer: images/uploads/ef6b05c0-5b9e-43ad-bbe4-4669b58605a1.jpeg
 ---
