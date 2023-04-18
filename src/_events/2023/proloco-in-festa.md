@@ -11,5 +11,6 @@ tags:
 location:
   city: Gaggiano
   address: Area feste, via Gramsci
+thumbnail: images/uploads/chris-lawton-vba-jnharai-unsplash-1-.webp
 flyer: images/uploads/ac4cd3c9-931c-4080-844e-642274c07a66.jpeg
 ---
