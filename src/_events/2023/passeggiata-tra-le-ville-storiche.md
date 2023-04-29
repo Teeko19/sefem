@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: "per le vie della città "
+thumbnail: images/uploads/old-youth-n8raeceenpo-unsplash.webp
 flyer: images/uploads/d56fbaea-a5f4-4d87-9b01-32c9e1266085.jpeg
 ---
