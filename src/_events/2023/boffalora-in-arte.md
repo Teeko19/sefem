@@ -12,5 +12,6 @@ tags:
 location:
   city: Boffalora
   address: Centro Storico
+thumbnail: images/uploads/julie_nyrsrivaw0q_unsplash_2w6mnvyrik.jpg
 flyer: images/uploads/whatsapp-image-2023-04-29-at-18.47.20.jpeg
 ---
