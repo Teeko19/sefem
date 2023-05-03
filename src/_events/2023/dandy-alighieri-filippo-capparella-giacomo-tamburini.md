@@ -10,5 +10,6 @@ location:
   city: Magenta
   address: Villa Colombo
 link: https://www.instagram.com/p/Crv27JdokRb/
+thumbnail: images/uploads/felix-mooneeram-evlkofkq5re-unsplash.webp
 flyer: images/uploads/dandy.png
 ---
