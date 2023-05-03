@@ -11,5 +11,6 @@ location:
   city: Corsico
   address: via Cavour
 link: https://comune.corsico.mi.it/novita/notizie/corsico-a-scenaperta/
+thumbnail: images/uploads/pexels-monica-silvestre-713149-1-.webp
 flyer: images/uploads/teatro.png
 ---
