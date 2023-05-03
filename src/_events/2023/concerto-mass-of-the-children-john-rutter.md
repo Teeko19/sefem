@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Chiesa di san Vittore, piazza del Popolo
+thumbnail: images/uploads/larisa-birta-slbocnlwnha-unsplash-1-.webp
 flyer: images/uploads/concerto.png
 ---
