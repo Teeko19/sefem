@@ -11,7 +11,7 @@ tags:
   - Food & Drink
 location:
   city: Corbetta
-  address: Villa Pagani della Torre, piazza XXV Aprile
+  address: Villa Pagani della Torre
 thumbnail: images/uploads/dim-hou-2p6q7-uidr0-unsplash-1-.webp
 flyer: images/uploads/un-angelo.png
 ---
