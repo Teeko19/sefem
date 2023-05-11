@@ -10,5 +10,6 @@ location:
   city: Casterno
   address: "@ Molino S. Marta"
 link: https://www.molinosantamarta.it/
+thumbnail: images/uploads/aaron-burden-1zr3wnstnvy-unsplash-1-.webp
 flyer: images/uploads/magiacabula.png
 ---
