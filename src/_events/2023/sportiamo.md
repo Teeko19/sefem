@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Parco Comunale Villa Ferrario
+thumbnail: images/uploads/jannes-glas-0naqqslwlka-unsplash.webp
 flyer: images/uploads/sportiamo.png
 ---
