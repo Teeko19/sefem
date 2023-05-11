@@ -9,5 +9,6 @@ tags:
 location:
   address: Casa Giacobbe
   city: Magenta
+thumbnail: images/uploads/mel-poole-lbsvzgynzpu-unsplash.webp
 flyer: images/uploads/dieci-anni-dopo.png
 ---
