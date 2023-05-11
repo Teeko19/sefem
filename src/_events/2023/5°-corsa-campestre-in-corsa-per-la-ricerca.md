@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Villa Pagani della Torre, piazza XXV Aprile
+thumbnail: images/uploads/fitsum-admasu-ogv9xil7dky-unsplash.webp
 flyer: images/uploads/corsa-campestre.png
 ---
