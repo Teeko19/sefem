@@ -3,7 +3,7 @@ layout: event
 title: SporTiamo
 starts_at: 2023-05-21T09:00:00
 ends_at: ""
-all_day: true
+all_day: false
 tags:
   - Sport
 location:
