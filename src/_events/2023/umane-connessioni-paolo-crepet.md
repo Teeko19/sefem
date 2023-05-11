@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Oratorio S. Giovanni Bosco
+thumbnail: images/uploads/miguel-henriques-rfibk6y_upq-unsplash.webp
 flyer: images/uploads/crepet.png
 ---
