@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Magicabula
+title: Magicabula - Super Bolle di Sapone
 starts_at: 2023-05-21T16:30:00
 ends_at: ""
 all_day: false
