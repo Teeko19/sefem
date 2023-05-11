@@ -11,6 +11,6 @@ tags:
 location:
   city: Rosate
   address: Biblioteca
-thumbnail: images/uploads/mel-poole-lbsvzgynzpu-unsplash.webp
+thumbnail: images/uploads/jon-tyson-smhvg2kbklc-unsplash.webp
 flyer: images/uploads/bibliocaffè.png
 ---
