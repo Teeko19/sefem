@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Oratorio S. Giovanni Bosco
+thumbnail: images/uploads/larisa-birta-slbocnlwnha-unsplash-1-.webp
 flyer: images/uploads/concerto-fuoco-dentro.png
 ---
