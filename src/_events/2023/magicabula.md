@@ -1,0 +1,14 @@
+---
+layout: event
+title: Magicabula
+starts_at: 2023-05-21T16:30:00
+ends_at: ""
+all_day: false
+tags:
+  - Evento per Bambini
+location:
+  city: Casterno
+  address: "@ Molino S. Marta"
+link: https://www.molinosantamarta.it/
+flyer: images/uploads/magiacabula.png
+---
