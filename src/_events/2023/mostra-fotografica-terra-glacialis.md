@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Ex Convento dell'Annunciata
+thumbnail: images/uploads/christina-ambalavanar-hdkq06-vxg4-unsplash-_1_.webp
 flyer: images/uploads/terra-glacialis.png
 ---
