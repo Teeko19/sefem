@@ -11,5 +11,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Ex Convento dell'Annunciata
+thumbnail: images/uploads/markus-spiske-djo4qhtu2sg-unsplash.webp
 flyer: images/uploads/picabù.png
 ---
