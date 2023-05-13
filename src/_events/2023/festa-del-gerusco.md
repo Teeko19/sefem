@@ -10,6 +10,7 @@ tags:
 location:
   city: Robecco
   address: Parco di Villa Terzaghi
+link: https://www.instagram.com/p/CsJlxnEtIpW/
 thumbnail: images/uploads/aleksandr-popov-htv8aapzioq-unsplash-1-.webp
 flyer: images/uploads/gerusco-fest.png
 ---
