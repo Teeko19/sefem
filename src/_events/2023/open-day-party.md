@@ -11,5 +11,6 @@ location:
   city: Abbiategrasso
   address: "@ Birra del Parco"
 link: https://www.instagram.com/p/CsWbN9-IGZv/
+thumbnail: images/uploads/amie-johnson-vjxlzqi5tle-unsplash.webp
 flyer: images/uploads/open-day-party.png
 ---
