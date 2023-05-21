@@ -10,5 +10,6 @@ location:
   city: Rosate
   address: Scuola primaria
 link: https://www.instagram.com/p/CsT9uZ2o6rD/
+thumbnail: images/uploads/aaron-burden-1zr3wnstnvy-unsplash-1-.webp
 flyer: images/uploads/i-giochi-del-cirso.png
 ---
