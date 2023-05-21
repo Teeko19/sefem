@@ -10,5 +10,6 @@ location:
   city: Abbiategrasso
   address: Castello Visconteo
 link: https://www.instagram.com/p/CqsqDZEoac4/
+thumbnail: images/uploads/chris-lawton-vba-jnharai-unsplash-1-.webp
 flyer: images/uploads/amici-del-sorriso.png
 ---
