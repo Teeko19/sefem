@@ -11,5 +11,6 @@ location:
   city: Abbiategrasso
   address: "@ The Cult Rck Pub"
 link: https://www.instagram.com/p/CseWH5NvDvs/
+thumbnail: images/uploads/aleksandr-popov-htv8aapzioq-unsplash-1-.webp
 flyer: images/uploads/live-con-cenas.png
 ---
