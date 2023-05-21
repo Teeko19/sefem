@@ -1,8 +1,8 @@
 ---
 layout: event
 title: Notte Bianca
-starts_at: 2023-07-22T18:00:00
-ends_at: ""
+starts_at: 2023-07-22T20:00:00
+ends_at: 2023-07-23T02:00:00
 all_day: false
 tags:
   - Manifestazione
