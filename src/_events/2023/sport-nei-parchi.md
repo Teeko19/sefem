@@ -11,5 +11,6 @@ location:
   city: Abbiategrasso
   address: Parco della Darsena, via T. Grossi 11
 link: https://www.instagram.com/p/CsYPsqKgPV5/
+thumbnail: images/uploads/arek-adeoye-ljocgjs63sm-unsplash.webp
 flyer: images/uploads/sport-nei-parchi.png
 ---
