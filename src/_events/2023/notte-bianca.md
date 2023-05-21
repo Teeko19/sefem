@@ -13,4 +13,5 @@ location:
   city: Gaggiano
   address: lungo sponde del Naviglio
 thumbnail: images/uploads/julie_nyrsrivaw0q_unsplash_2w6mnvyrik.jpg
+flyer: images/uploads/notte-bianca.png
 ---
