@@ -11,5 +11,6 @@ tags:
 location:
   city: "Abbiategrasso "
   address: Parco degli Alpini, via Porcellini
+thumbnail: images/uploads/david-dvoracek-3kbizzluhnc-unsplash.webp
 flyer: images/uploads/246b4db2-ac81-46ad-8e3f-fc16654f9af5.jpeg
 ---
