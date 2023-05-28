@@ -10,7 +10,8 @@ tags:
   - Food & Drink
 location:
   city: Inveruno
-  address: da definire
+  address: " Cortile del Torchio, via Marcora 38/40"
+link: https://www.instagram.com/p/CstESh2IQuN/
 thumbnail: images/uploads/aleksandr-popov-htv8aapzioq-unsplash-1-.webp
 flyer: images/uploads/rockantina.png
 ---
