@@ -11,6 +11,6 @@ tags:
 location:
   city: Trezzano
   address: Centro Feste Ugo Tognazzi, via Castoldi
-thumbnail: images/uploads/cam_morin_ss7emrm5xgy_unsplash_upfyyqzl88.jpg
+thumbnail: images/uploads/hanny_naibaho_awxvxy8bszc_unsplash_zbpbab5fd0.jpg
 flyer: images/uploads/birreficienza.png
 ---
