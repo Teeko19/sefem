@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: "@ Bar Circolo Ricreativo, via della Madonna 23"
+thumbnail: images/uploads/atthieu-joannon-6cilddtotgm-unsplash.webp
 flyer: images/uploads/aperitivo-con-l-autore.png
 ---
