@@ -1,0 +1,14 @@
+---
+layout: event
+title: Aperitivo con l'autore - Maurizio Asquini
+starts_at: 2023-06-15T19:30:00
+ends_at: ""
+all_day: false
+tags:
+  - Incontro
+  - Food & Drink
+location:
+  city: Corbetta
+  address: "@ Bar Circolo Ricreativo, via della Madonna 23"
+flyer: images/uploads/aperitivo-con-l-autore.png
+---
