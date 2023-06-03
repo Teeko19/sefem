@@ -10,5 +10,6 @@ location:
   city: Abbiategrasso
   address: da definire
 link: https://www.instagram.com/p/Cs6mo0II0dB/
+thumbnail: images/uploads/felix-mooneeram-evlkofkq5re-unsplash.webp
 flyer: images/uploads/il-coraggio-di-battersi-per-amore.png
 ---
