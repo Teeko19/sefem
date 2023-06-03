@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Cascina Fraschina, via Cassolnovo "
+thumbnail: images/uploads/fred-moon-0yqa0rmcsyk-unsplash.webp
 flyer: images/uploads/nefeli.png
 ---
