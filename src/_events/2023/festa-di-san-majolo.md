@@ -11,5 +11,6 @@ tags:
 location:
   city: Robecco
   address: Parco di Borgo Archinito
+thumbnail: images/uploads/aleksandr-popov-htv8aapzioq-unsplash-1-.webp
 flyer: images/uploads/10c1cdef-2da0-443f-af0c-f1a0ddcfee2d.jpeg
 ---
