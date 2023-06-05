@@ -10,5 +10,6 @@ tags:
 location:
   city: "Corbetta "
   address: Sala Polifunzionale A. Salvi
+thumbnail: images/uploads/kael-bloom-0fko0cli2vq-unsplash-1-.webp
 flyer: images/uploads/3c158ef0-86e4-4060-b510-5c564e2c02ff.jpeg
 ---
