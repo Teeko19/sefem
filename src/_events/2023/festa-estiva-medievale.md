@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: Piazza della Giostre
+thumbnail: images/uploads/arturo-rey-ivp5bknvfrw-unsplash.webp
 flyer: images/uploads/9671d688-95f7-4ffc-a066-57215739cfdc.jpeg
 ---
