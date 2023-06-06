@@ -9,5 +9,6 @@ tags:
 location:
   city: Casterno
   address: Centro sportivo, via della Chiesa
+thumbnail: images/uploads/arek-adeoye-ljocgjs63sm-unsplash.webp
 flyer: images/uploads/b7ea165c-9ca4-4a3d-adae-06831b67775a.jpeg
 ---
