@@ -12,5 +12,6 @@ location:
   city: Gaggiano
   address: Area feste, via Gramsci 36
 link: https://www.facebook.com/profile.php?id=100064514567278
+thumbnail: images/uploads/amie-johnson-vjxlzqi5tle-unsplash.webp
 flyer: images/uploads/6c0afeba-8329-4596-ad9a-bc196cd23e78.jpeg
 ---
