@@ -11,5 +11,6 @@ location:
   city: Magenta
   address: Villa Naj Oleari
 link: https://www.instagram.com/p/CtTgaslooLU/
+thumbnail: images/uploads/elizeu-dias-29qo6ox3gla-unsplash-1-.webp
 flyer: images/uploads/solstizio.png
 ---
