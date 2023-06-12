@@ -9,4 +9,6 @@ tags:
 location:
   city: "Abbiategrasso "
   address: Castello Visconteo
+thumbnail: images/uploads/larisa-birta-slbocnlwnha-unsplash-1-.webp
+flyer: images/uploads/schermata-2023-06-11-alle-12.39.25.png
 ---
