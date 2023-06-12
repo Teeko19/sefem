@@ -9,4 +9,6 @@ tags:
 location:
   city: "Abbiategrasso "
   address: Chiesa di Santa Maria Nuova
+thumbnail: images/uploads/kael-bloom-0fko0cli2vq-unsplash-1-.webp
+flyer: images/uploads/schermata-2023-06-11-alle-12.39.41.png
 ---
