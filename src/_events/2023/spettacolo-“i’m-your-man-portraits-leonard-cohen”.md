@@ -9,4 +9,6 @@ tags:
 location:
   city: "Abbiategrasso "
   address: Ex convento dell’ Annunciata
+thumbnail: images/uploads/felix-mooneeram-evlkofkq5re-unsplash.webp
+flyer: images/uploads/schermata-2023-06-11-alle-12.39.48.png
 ---
