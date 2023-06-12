@@ -9,4 +9,6 @@ tags:
 location:
   city: "Abbiategrasso "
   address: Castello Visconteo
+thumbnail: images/uploads/arek-adeoye-ljocgjs63sm-unsplash.webp
+flyer: images/uploads/schermata-2023-06-11-alle-12.39.06.png
 ---
