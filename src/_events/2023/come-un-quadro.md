@@ -9,4 +9,6 @@ tags:
 location:
   city: "Abbiategrasso "
   address: Sotterranei Castello Visconteo
+thumbnail: images/uploads/anna-kolosyuk-d5nh6mcw52c-unsplash.webp
+flyer: images/uploads/schermata-2023-06-11-alle-12.39.35.png
 ---
