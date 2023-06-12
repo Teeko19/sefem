@@ -9,4 +9,6 @@ tags:
 location:
   city: "Abbiategrasso "
   address: Castello Visconteo
+thumbnail: images/uploads/miguel-henriques-rfibk6y_upq-unsplash.webp
+flyer: images/uploads/schermata-2023-06-11-alle-12.39.17.png
 ---
