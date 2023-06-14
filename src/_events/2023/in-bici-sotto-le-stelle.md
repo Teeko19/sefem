@@ -9,4 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Piazza delle Giostre
+thumbnail: images/uploads/iane-liebermann-o-rku3aqnsw-unsplash-1-.webp
+flyer: images/uploads/schermata-2023-06-14-alle-18.47.59.png
 ---
