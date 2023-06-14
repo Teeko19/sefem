@@ -10,4 +10,6 @@ tags:
 location:
   city: Magenta
   address: Tensostruttura, via Matteotti
+thumbnail: images/uploads/elizeu-dias-29qo6ox3gla-unsplash-1-.webp
+flyer: images/uploads/schermata-2023-06-14-alle-18.49.31.png
 ---
