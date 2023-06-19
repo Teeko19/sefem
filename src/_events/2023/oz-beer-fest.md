@@ -10,5 +10,6 @@ tags:
 location:
   city: Ozzero
   address: Parco Cereda, via 1º Maggio
+thumbnail: images/uploads/amie-johnson-vjxlzqi5tle-unsplash.webp
 flyer: images/uploads/img_0632.jpeg
 ---
