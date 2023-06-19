@@ -10,5 +10,6 @@ tags:
 location:
   city: Cisliano
   address: Piazza San Giovanni
+thumbnail: images/uploads/aleksandr-popov-htv8aapzioq-unsplash-1-.webp
 flyer: images/uploads/img_0631.jpeg
 ---
