@@ -12,5 +12,6 @@ tags:
 location:
   city: Cisliano
   address: Piazza San Giovanni
+thumbnail: images/uploads/ashley-owen-cq6jyslww2e-unsplash.webp
 flyer: images/uploads/img_0630.jpeg
 ---
