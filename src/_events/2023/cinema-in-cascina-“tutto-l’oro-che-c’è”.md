@@ -11,5 +11,5 @@ location:
   city: Besate
   address: "@ Cascina Caremma"
 thumbnail: images/uploads/jakob-owens-ciur8zisx60-unsplash.webp
-flyer: images/uploads/img_0638.jpeg
+flyer: images/uploads/img_0639.jpeg
 ---
