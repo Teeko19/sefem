@@ -10,5 +10,6 @@ tags:
 location:
   city: Bareggio
   address: Piazza Cavour
+thumbnail: images/uploads/iane-liebermann-o-rku3aqnsw-unsplash-1-.webp
 flyer: images/uploads/salata-baregio.png
 ---
