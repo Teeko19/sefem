@@ -12,5 +12,6 @@ location:
   city: Arluno
   address: per le vie della città
 link: https://www.comune.arluno.mi.it/it-it/avvisi/2023/notte-bianca-2023-modulo-adesione-278848-1-d6b8f76f5bce9db526250d57ea2196b0
+thumbnail: images/uploads/kate-trysh-zuwls_bdgak-unsplash.webp
 flyer: images/uploads/notte-bianca-arluno.png
 ---
