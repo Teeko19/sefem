@@ -10,5 +10,6 @@ tags:
 location:
   city: Ossona
   address: Oratorio San Luigi, via Baracca 13
+thumbnail: images/uploads/pexels-luis-quintero-2091374-1-.webp
 flyer: images/uploads/palio-ossona.png
 ---
