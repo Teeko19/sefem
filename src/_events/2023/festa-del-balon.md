@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Piazza San Pietro
+thumbnail: images/uploads/chris-lawton-vba-jnharai-unsplash-1-.webp
 flyer: images/uploads/img_0649.jpeg
 ---
