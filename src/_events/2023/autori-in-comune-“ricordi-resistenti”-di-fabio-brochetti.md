@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: Piazza Vittorio Veneto
+thumbnail: images/uploads/miguel-henriques-rfibk6y_upq-unsplash.webp
 flyer: images/uploads/img_0667.jpeg
 ---
