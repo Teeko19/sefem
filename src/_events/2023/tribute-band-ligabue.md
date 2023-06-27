@@ -11,4 +11,5 @@ location:
   city: Vigano
   address: da definire
 thumbnail: images/uploads/elizeu-dias-29qo6ox3gla-unsplash-1-.webp
+flyer: images/uploads/img_0673.jpeg
 ---
