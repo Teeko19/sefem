@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Sala Artemisia Gentileschi, via Cattaneo 25
+thumbnail: images/uploads/anna-kolosyuk-d5nh6mcw52c-unsplash.webp
 flyer: images/uploads/img_0677.jpeg
 ---
