@@ -1,7 +1,7 @@
 ---
 layout: event
 title: R..estate a Cisliano - Hawaiian Bubble Party
-starts_at: 2023-07-10T19:00:00
+starts_at: 2023-07-23T21:30:00
 ends_at: ""
 all_day: false
 tags:
