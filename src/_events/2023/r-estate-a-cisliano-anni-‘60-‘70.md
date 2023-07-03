@@ -10,4 +10,5 @@ tags:
 location:
   city: Cisliano
   address: Via Olmetto 2
+flyer: images/uploads/867c83f2-34b4-43d7-90b6-75153db78270.jpeg
 ---
