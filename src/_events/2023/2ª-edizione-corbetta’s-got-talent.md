@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: "Da definire "
+thumbnail: images/uploads/israel-palacio-y20jj-ddy9m-unsplash-1-.webp
 flyer: images/uploads/img_0695.jpeg
 ---
