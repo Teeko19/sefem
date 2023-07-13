@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Salumeria Meloni"
+thumbnail: images/uploads/hermes-rivera-ak6wgqxyhfw-unsplash.webp
 flyer: images/uploads/img_0971.jpeg
 ---
