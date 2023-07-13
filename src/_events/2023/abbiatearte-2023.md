@@ -10,5 +10,6 @@ location:
   city: Abbiategrasso
   address: Sotterranei del Castello
 link: https://www.instagram.com/p/CumTmEXNh8d/?igshid=Y2I2MzMwZWM3ZA==
+thumbnail: images/uploads/anna-kolosyuk-d5nh6mcw52c-unsplash.webp
 flyer: images/uploads/img_0967.jpeg
 ---
