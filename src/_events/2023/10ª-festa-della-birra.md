@@ -10,5 +10,6 @@ tags:
 location:
   city: Rosate
   address: via Veneto
+thumbnail: images/uploads/amie-johnson-vjxlzqi5tle-unsplash.webp
 flyer: images/uploads/img_1092.jpeg
 ---
