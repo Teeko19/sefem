@@ -10,6 +10,6 @@ tags:
 location:
   city: Cisliano
   address: Via Olmetto 2
-thumbnail: images/uploads/anthony-delanoix-hzgs56ze49s-unsplash-1-.webp
+thumbnail: images/uploads/hanny_naibaho_awxvxy8bszc_unsplash_zbpbab5fd0.jpg
 flyer: images/uploads/img_1141.jpeg
 ---
