@@ -10,5 +10,6 @@ location:
   city: Abbiategrasso
   address: "@ Divino Enoteca, via Magenta 25"
 link: https://www.instagram.com/p/Cut1ZBHtYXt/?igshid=MzRlODBiNWFlZA==
+thumbnail: images/uploads/atthieu-joannon-6cilddtotgm-unsplash.webp
 flyer: images/uploads/img_1138.jpeg
 ---
