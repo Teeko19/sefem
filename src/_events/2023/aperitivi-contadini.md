@@ -10,5 +10,6 @@ location:
   city: Abbiategrasso
   address: "@ Cascina Gambarina"
 link: https://instagram.com/birradelparco?igshid=Y2I2MzMwZWM3ZA==
+thumbnail: images/uploads/fred-moon-0yqa0rmcsyk-unsplash.webp
 flyer: images/uploads/img_1159.jpeg
 ---
