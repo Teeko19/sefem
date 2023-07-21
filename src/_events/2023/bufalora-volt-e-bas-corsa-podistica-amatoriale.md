@@ -10,5 +10,6 @@ tags:
 location:
   city: Boffalora
   address: "@ Oratorio di Boffalora"
+thumbnail: images/uploads/arek-adeoye-ljocgjs63sm-unsplash.webp
 flyer: images/uploads/img_1169.jpeg
 ---
