@@ -10,5 +10,6 @@ tags:
 location:
   city: Bareggio
   address: Via Brughiera 1
+thumbnail: images/uploads/ashley-owen-cq6jyslww2e-unsplash.webp
 flyer: images/uploads/img_1161.jpeg
 ---
