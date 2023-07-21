@@ -9,5 +9,6 @@ tags:
 location:
   city: Magenta
   address: "@ Teatro Lirico, via Cavallari 2"
+thumbnail: images/uploads/felix-mooneeram-evlkofkq5re-unsplash.webp
 flyer: images/uploads/img_1160.jpeg
 ---
