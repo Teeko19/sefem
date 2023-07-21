@@ -10,5 +10,6 @@ tags:
 location:
   city: Boffalora
   address: "Piazza IV Giugno "
+thumbnail: images/uploads/chris-lawton-vba-jnharai-unsplash-1-.webp
 flyer: images/uploads/img_1168.jpeg
 ---
