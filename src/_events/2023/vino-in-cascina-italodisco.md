@@ -10,5 +10,6 @@ tags:
 location:
   city: Ozzero
   address: "@ Cascina Selva"
+thumbnail: images/uploads/atthieu-joannon-6cilddtotgm-unsplash.webp
 flyer: images/uploads/img_1219.jpeg
 ---
