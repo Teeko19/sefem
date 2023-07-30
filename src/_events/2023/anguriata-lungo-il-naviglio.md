@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: Via Gozzadini
+thumbnail: images/uploads/chris-lawton-vba-jnharai-unsplash-1-.webp
 flyer: images/uploads/img_1220.jpeg
 ---
