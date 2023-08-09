@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Piazza Castello
+thumbnail: images/uploads/pexels-erik-scheel-95425-1-.webp
 flyer: images/uploads/img_1279.jpeg
 ---
