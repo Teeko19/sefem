@@ -10,5 +10,6 @@ location:
   city: Abbiategrasso
   address: Piazza Castello e d’intorni
 link: https://www.comune.abbiategrasso.mi.it/dettagli/comunicazione/1049
+thumbnail: images/uploads/fitsum-admasu-ogv9xil7dky-unsplash.webp
 flyer: images/uploads/img_1289.jpeg
 ---
