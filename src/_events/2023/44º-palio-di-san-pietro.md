@@ -8,6 +8,7 @@ tags:
   - Manifestazione
 location:
   city: Abbiategrasso
-  address: Quartiere Fiera, via Ticino 72
+  address: "@ Quartiere Fiera, via Ticino 72"
+thumbnail: images/uploads/chris-lawton-vba-jnharai-unsplash-1-.webp
 flyer: images/uploads/img_1364.jpeg
 ---
