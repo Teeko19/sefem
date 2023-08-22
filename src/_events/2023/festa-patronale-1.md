@@ -11,5 +11,6 @@ tags:
 location:
   city: Casterno
   address: Oratorio S. Andrea
+thumbnail: images/uploads/ashley-owen-cq6jyslww2e-unsplash.webp
 flyer: images/uploads/img_1362.jpeg
 ---
