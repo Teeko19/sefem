@@ -12,5 +12,6 @@ location:
   city: Bareggio
   address: Pratone di via 1º Maggio
 link: https://www.instagram.com/p/CwPPoHfo59t/?igshid=MzRlODBiNWFlZA==
+thumbnail: images/uploads/aleksandr-popov-htv8aapzioq-unsplash-1-.webp
 flyer: images/uploads/img_1366.jpeg
 ---
