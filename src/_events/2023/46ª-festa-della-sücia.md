@@ -9,4 +9,5 @@ tags:
 location:
   city: Boffalora
   address: Piazza IV Giugno
+thumbnail: images/uploads/david-dvoracek-3kbizzluhnc-unsplash.webp
 ---
