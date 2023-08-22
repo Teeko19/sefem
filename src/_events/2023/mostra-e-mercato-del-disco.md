@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Bocciodromo, via Leonardo Da Vinci 74"
+thumbnail: images/uploads/israel-palacio-y20jj-ddy9m-unsplash-1-.webp
 flyer: images/uploads/img_1363.jpeg
 ---
