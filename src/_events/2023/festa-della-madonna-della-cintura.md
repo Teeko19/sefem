@@ -11,5 +11,6 @@ location:
   city: Ozzero
   address: Per le vie della città
 link: https://www.instagram.com/p/CwNDUjNtJgA/?igshid=MzRlODBiNWFlZA==
+thumbnail: images/uploads/ashley-owen-cq6jyslww2e-unsplash.webp
 flyer: images/uploads/img_1365.jpeg
 ---
