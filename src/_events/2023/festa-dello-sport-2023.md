@@ -10,5 +10,6 @@ tags:
 location:
   city: Rosate
   address: "@ Centro sportivo Ciro Campisi"
+thumbnail: images/uploads/fitsum-admasu-ogv9xil7dky-unsplash.webp
 flyer: images/uploads/img_1383.jpeg
 ---
