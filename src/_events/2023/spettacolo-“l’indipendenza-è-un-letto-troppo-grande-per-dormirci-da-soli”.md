@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: "@ Sala Teatro, via Sacchi 4"
+thumbnail: images/uploads/felix-mooneeram-evlkofkq5re-unsplash.webp
 flyer: images/uploads/img_1382.jpeg
 ---
