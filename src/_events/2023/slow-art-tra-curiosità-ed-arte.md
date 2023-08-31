@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Castello Visconteo"
+thumbnail: images/uploads/anna-kolosyuk-d5nh6mcw52c-unsplash.webp
 flyer: images/uploads/img_1397.jpeg
 ---
