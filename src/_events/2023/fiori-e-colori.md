@@ -1,8 +1,8 @@
 ---
 layout: event
 title: Fiori e Colori
-starts_at: 2023-09-10T10:00:00
-ends_at: 2023-09-10T19:00:00
+starts_at: 2023-09-03T10:00:00
+ends_at: 2023-09-03T19:00:00
 all_day: false
 tags:
   - Mercatino
