@@ -9,5 +9,6 @@ tags:
 location:
   city: Bareggio
   address: Area Mercato di San Martino, via San Sebastiano
+thumbnail: images/uploads/jakob-owens-ciur8zisx60-unsplash.webp
 flyer: images/uploads/img_1399.jpeg
 ---
