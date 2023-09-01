@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Per le vie della città
+thumbnail: images/uploads/cmophoto-net-xug7wn6bh4i-unsplash.webp
 flyer: images/uploads/img_1398.jpeg
 ---
