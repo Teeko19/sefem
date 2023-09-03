@@ -10,6 +10,7 @@ tags:
   - Evento per famiglie
 location:
   city: Vigano
-  address: da definire
+  address: Area feste, via Gamberina
 thumbnail: images/uploads/chelsea-pridham-mmoxoxe-gj0-unsplash-1-.webp
+flyer: images/uploads/img_1411.jpeg
 ---
