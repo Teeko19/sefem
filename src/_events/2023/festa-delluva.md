@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Festa dell'Uva
-starts_at: 2023-09-16T00:00:00
+starts_at: 2023-09-16T19:30:00
 ends_at: ""
 all_day: true
 tags:
