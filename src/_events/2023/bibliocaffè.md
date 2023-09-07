@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: "@ Biblioteca"
+thumbnail: images/uploads/mel-poole-lbsvzgynzpu-unsplash.webp
 flyer: images/uploads/img_1416.jpeg
 ---
