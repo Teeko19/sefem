@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Villa Pagani della Torre, piazza XXV Aprile
+thumbnail: images/uploads/mel-poole-lbsvzgynzpu-unsplash.webp
 flyer: images/uploads/img_1418.jpeg
 ---
