@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: "@ Villa Pagani"
+thumbnail: images/uploads/arek-adeoye-ljocgjs63sm-unsplash.webp
 flyer: images/uploads/img_1423.jpeg
 ---
