@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: "@ Villa Ferrario, parco del comune"
+thumbnail: images/uploads/jannes-glas-0naqqslwlka-unsplash.webp
 flyer: images/uploads/img_1424.jpeg
 ---
