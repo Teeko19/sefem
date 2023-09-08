@@ -12,4 +12,5 @@ location:
   city: Robecco
   address: Parco di Villa Terzaghi
 thumbnail: images/uploads/amie-johnson-vjxlzqi5tle-unsplash.webp
+flyer: images/uploads/00db6c6a-16f0-4cd7-bed4-585f8dc7def8.jpeg
 ---
