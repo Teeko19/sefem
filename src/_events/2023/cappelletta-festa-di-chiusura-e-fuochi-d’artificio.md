@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Cappelletta- Festa di chiusura
-starts_at: 2023-09-11T22:00:00
+starts_at: 2023-09-11T19:00:00
 ends_at: ""
 all_day: false
 tags:
