@@ -9,5 +9,6 @@ tags:
 location:
   city: Bareggio
   address: Parco Arcadia
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/img_1441.jpeg
 ---
