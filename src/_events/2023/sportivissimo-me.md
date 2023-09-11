@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Cortile del Palazzo Comunale e parco Villa Ferrario
+thumbnail: images/uploads/sport4.png
 flyer: images/uploads/img_1443.jpeg
 ---
