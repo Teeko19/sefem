@@ -10,5 +10,6 @@ location:
   city: Abbiategrasso
   address: "@ Divino Enoteca, via Magenta 25"
 link: https://www.instagram.com/p/CxI-9-8tcB2/?igshid=MzRlODBiNWFlZA==
+thumbnail: images/uploads/degustazione2.png
 flyer: images/uploads/img_1450.jpeg
 ---
