@@ -12,5 +12,5 @@ location:
   city: Gaggiano
   address: Per le vie della città
 thumbnail: images/uploads/joana-godinho-gwv-t9vqipm-unsplash.webp
-flyer: images/uploads/img_1283.jpeg
+flyer: images/uploads/img_1498.jpeg
 ---
