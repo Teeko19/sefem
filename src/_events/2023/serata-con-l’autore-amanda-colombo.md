@@ -9,5 +9,6 @@ tags:
 location:
   city: Cisliano
   address: Biblioteca di via Papa Giovanni XXIII
+thumbnail: images/uploads/incontro1.png
 flyer: images/uploads/img_1501.jpeg
 ---
