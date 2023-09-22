@@ -7,8 +7,10 @@ all_day: false
 tags:
   - Manifestazione
   - Food & Drink
+  - Divertimento
 location:
   city: Gaggiano
   address: presso l’Oratorio
+thumbnail: images/uploads/divertimento5.png
 flyer: images/uploads/img_1506.jpeg
 ---
