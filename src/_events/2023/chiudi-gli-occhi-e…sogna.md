@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: Biblioteca di Rosate
+thumbnail: images/uploads/eventiperbambini2.png
 flyer: images/uploads/img_1502.jpeg
 ---
