@@ -9,4 +9,5 @@ tags:
 location:
   city: Corbetta
   address: Sala A. Gentileschi, Cortile del comune
+thumbnail: images/uploads/mostra1.png
 ---
