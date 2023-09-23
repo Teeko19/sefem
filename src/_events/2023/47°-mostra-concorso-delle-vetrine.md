@@ -10,4 +10,5 @@ location:
   city: Corbetta
   address: Centro storico
 thumbnail: images/uploads/mostra1.png
+flyer: images/uploads/img_1514.jpeg
 ---
