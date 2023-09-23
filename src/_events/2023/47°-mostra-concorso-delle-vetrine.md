@@ -8,6 +8,6 @@ tags:
   - Mostra
 location:
   city: Corbetta
-  address: Sala A. Gentileschi, Cortile del comune
+  address: Centro storico
 thumbnail: images/uploads/mostra1.png
 ---
