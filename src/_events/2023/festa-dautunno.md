@@ -11,4 +11,5 @@ location:
   city: Corbetta
   address: corso Garibaldi e piazza del Popolo
 thumbnail: images/uploads/mercatini3.png
+flyer: images/uploads/img_1516.jpeg
 ---
