@@ -11,4 +11,5 @@ location:
   city: Corbetta
   address: via Caldara ang. via Petrarca
 thumbnail: images/uploads/eventiperfamiglia1.png
+flyer: images/uploads/img_1515.jpeg
 ---
