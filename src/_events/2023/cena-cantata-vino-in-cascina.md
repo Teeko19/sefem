@@ -10,4 +10,5 @@ tags:
 location:
   city: Ozzero
   address: "@ Agriturismo Cascina Selva"
+thumbnail: images/uploads/fooddrink4.png
 ---
