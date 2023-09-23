@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Nonni leggiamo una storia?
+title: Nonni leggiamo una storia
 starts_at: 2023-10-02T16:45:00
 ends_at: ""
 all_day: false
