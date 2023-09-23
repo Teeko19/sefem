@@ -10,4 +10,5 @@ location:
   city: Corbetta
   address: Salone Beato Paolo VI, via Verdi 53
 thumbnail: images/uploads/concerto2.png
+flyer: images/uploads/img_1513.jpeg
 ---
