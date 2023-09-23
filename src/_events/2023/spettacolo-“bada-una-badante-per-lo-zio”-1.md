@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: "@ Auditorium"
+thumbnail: images/uploads/teatro1.png
 flyer: images/uploads/img_1413.jpeg
 ---
