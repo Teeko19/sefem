@@ -10,5 +10,6 @@ location:
   city: Abbiategrasso
   address: Piazza Castello
 link: https://www.instagram.com/p/CxsLedfNz1A/?igshid=MzRlODBiNWFlZA==
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/img_1519.jpeg
 ---
