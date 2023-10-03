@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: Pizza XXV Aprile
+thumbnail: images/uploads/divertimento5.png
 flyer: images/uploads/img_1531.jpeg
 ---
