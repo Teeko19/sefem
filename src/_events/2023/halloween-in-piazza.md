@@ -9,5 +9,7 @@ tags:
 location:
   city: Gaggiano
   address: Piazza Daccó
+link: https://www.instagram.com/p/CyJUl8MN9Tg/?igshid=MzRlODBiNWFlZA==
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/img_1544.jpeg
 ---
