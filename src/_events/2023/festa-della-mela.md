@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Piazza Marconi
+thumbnail: images/uploads/mercatini2.png
 flyer: images/uploads/img_1543.jpeg
 ---
