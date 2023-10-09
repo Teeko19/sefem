@@ -9,7 +9,8 @@ tags:
   - Food & Drink
 location:
   city: Abbiategrasso
-  address: "@ La premiata salumeria Meloni,"
+  address: "@ La premiata salumeria Meloni, Corso Italia 47"
 link: https://www.instagram.com/p/CyIMvIxNALe/?igshid=MzRlODBiNWFlZA==
+thumbnail: images/uploads/fooddrink4.png
 flyer: images/uploads/img_1542.jpeg
 ---
