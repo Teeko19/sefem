@@ -9,5 +9,6 @@ tags:
 location:
   city: Ozzero
   address: Parco Cereda, via 1º Maggio
+thumbnail: images/uploads/bambina-che-disegna-nel-suo-taccuino-1-.webp
 flyer: images/uploads/img_1551.jpeg
 ---
