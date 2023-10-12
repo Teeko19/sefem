@@ -11,5 +11,6 @@ tags:
 location:
   city: Inveruno
   address: Indirizzi sulla locandina
+thumbnail: images/uploads/eventiperbambini3.png
 flyer: images/uploads/img_1549.jpeg
 ---
