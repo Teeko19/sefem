@@ -11,5 +11,6 @@ tags:
 location:
   city: Ozzero
   address: Palestra delle Scuole
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/img_1550.jpeg
 ---
