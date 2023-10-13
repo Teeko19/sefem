@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Teatro al Corso, corso San Pietro
+thumbnail: images/uploads/teatro2.png
 flyer: images/uploads/img_1555.png
 ---
