@@ -9,4 +9,6 @@ tags:
 location:
   city: Cerello Batuello
   address: piazza Cermenati
+thumbnail: images/uploads/eventiperbambini2.png
+flyer: images/uploads/img_1560.jpeg
 ---
