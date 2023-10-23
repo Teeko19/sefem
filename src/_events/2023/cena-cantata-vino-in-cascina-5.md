@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Cena Cantata "Vino in Cascina"
+title: Cena Cantata "Vino in Cascina" - Acoustic Trio
 starts_at: 2023-12-15T20:00:00
 ends_at: ""
 all_day: false
