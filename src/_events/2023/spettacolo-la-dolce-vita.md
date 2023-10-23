@@ -9,4 +9,5 @@ tags:
 location:
   city: Corbetta
   address: salone Beato Paolo VI, via Verdi 53
+thumbnail: images/uploads/israel-palacio-y20jj-ddy9m-unsplash-1-.webp
 ---
