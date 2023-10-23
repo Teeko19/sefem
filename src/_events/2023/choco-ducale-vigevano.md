@@ -11,4 +11,5 @@ tags:
 location:
   city: Vigevano
   address: Piazza Ducale
+thumbnail: images/uploads/manifestazione3.png
 ---
