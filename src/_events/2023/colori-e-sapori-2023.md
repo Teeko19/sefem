@@ -12,4 +12,5 @@ location:
   city: Rosate
   address: da definire
 thumbnail: images/uploads/sagra1.png
+flyer: images/uploads/img_1575.jpeg
 ---
