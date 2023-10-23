@@ -11,4 +11,5 @@ tags:
 location:
   city: Rosate
   address: da definire
+thumbnail: images/uploads/sagra1.png
 ---
