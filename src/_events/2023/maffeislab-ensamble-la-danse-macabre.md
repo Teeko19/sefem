@@ -1,12 +1,11 @@
 ---
-layout: event
-title: Maffeislab Ensamble - La Danse Macabre
-starts_at: 2023-10-31T21:00:00
+title: Castagne e Vin Brulè @ Tapa1
+starts_at: 2023-10-29T17:00:00
 ends_at: ""
 all_day: false
 tags:
-  - Concerto
+  - Divertimento
 location:
-  city: Abbiategrasso
-  address: Ex Convento dell' Annunciata, via Pontida 22
+  city: Gaggiano
+  address: "@ Tapa1, Via Carroccio 21"
 ---
