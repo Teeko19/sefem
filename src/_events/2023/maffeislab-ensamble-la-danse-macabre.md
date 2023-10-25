@@ -8,4 +8,6 @@ tags:
 location:
   city: Gaggiano
   address: "@ Tapa1, Via Carroccio 21"
+thumbnail: images/uploads/divertimento1.png
+flyer: images/uploads/img_1591.jpeg
 ---
