@@ -10,4 +10,5 @@ location:
   city: Morimondo
   address: Abbazia
 thumbnail: images/uploads/eventiperfamiglia1.png
+flyer: images/uploads/img_1586.jpeg
 ---
