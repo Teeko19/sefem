@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: "@ Old River Pub, via Leonardo da Vinci"
+thumbnail: images/uploads/divertimento3.png
 flyer: images/uploads/img_1600.jpeg
 ---
