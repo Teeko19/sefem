@@ -7,7 +7,7 @@ all_day: false
 tags:
   - Divertimento
 location:
-  city: Abbitegrasso
+  city: Abbiategrasso
   address: "@ Birra del Parco, via Mameli 41"
 thumbnail: images/uploads/divertimento2.png
 ---
