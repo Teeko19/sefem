@@ -10,5 +10,6 @@ location:
   city: Corbetta
   address: "@ Il Bosco Eremo Locatelli, Via Cascina Nuova"
 link: https://www.ilboscoeremolocatelli.com/escape-wood
+thumbnail: images/uploads/halll.png
 flyer: images/uploads/halll.png
 ---
