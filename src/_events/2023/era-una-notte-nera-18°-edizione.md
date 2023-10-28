@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Via Adamello
+thumbnail: images/uploads/teatro1.png
 flyer: images/uploads/cena.png
 ---
