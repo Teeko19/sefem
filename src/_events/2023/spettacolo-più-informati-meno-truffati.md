@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Sala Polifunzionale, piazza 1º Maggio
+thumbnail: images/uploads/teatro1.png
 flyer: images/uploads/img_1647.jpeg
 ---
