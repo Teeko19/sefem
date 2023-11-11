@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: Salone San Paolo VI, via Verdi 53
+thumbnail: images/uploads/fooddrink4.png
 flyer: images/uploads/img_1679.jpeg
 ---
