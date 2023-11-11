@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: presso Hotel Diamante
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/img_1680.jpeg
 ---
