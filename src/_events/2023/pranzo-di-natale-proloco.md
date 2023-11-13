@@ -10,4 +10,5 @@ location:
   city: Robecco
   address: presso la Tenuta Cambiaga, via della Valle
 thumbnail: images/uploads/fooddrink1.png
+flyer: images/uploads/img_1707.jpeg
 ---
