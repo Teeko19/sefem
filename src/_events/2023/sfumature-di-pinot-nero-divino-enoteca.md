@@ -12,4 +12,5 @@ location:
   address: "@ DiVino Enoteca, via Magenta 25"
 link: https://www.instagram.com/p/CzgqMKDtwlY/?igshid=MzRlODBiNWFlZA==
 thumbnail: images/uploads/degustazione1.png
+flyer: images/uploads/img_1719.jpeg
 ---
