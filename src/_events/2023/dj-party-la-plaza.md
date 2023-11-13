@@ -9,4 +9,5 @@ tags:
 location:
   city: Casorate Primo
   address: via Motta Visconti 24
+thumbnail: images/uploads/divertimento7.png
 ---
