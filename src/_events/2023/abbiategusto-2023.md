@@ -11,4 +11,5 @@ location:
   city: Abbiategrasso
   address: per le vie della città
 link: https://www.comune.abbiategrasso.mi.it/dettagli/comunicazione/1152
+thumbnail: images/uploads/fooddrink2.png
 ---
