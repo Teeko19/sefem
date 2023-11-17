@@ -9,5 +9,6 @@ tags:
 location:
   city: Vigano
   address: presso Ex Asilo di Vigano Certosino
+thumbnail: images/uploads/mercatini1.png
 flyer: images/uploads/1.png
 ---
