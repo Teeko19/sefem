@@ -9,5 +9,6 @@ tags:
 location:
   city: Vigano
   address: Chiesa S.S. Eugenio e Maria
+thumbnail: images/uploads/concerto1.png
 flyer: images/uploads/2.png
 ---
