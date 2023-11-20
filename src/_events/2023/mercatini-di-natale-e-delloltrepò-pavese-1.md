@@ -9,4 +9,5 @@ tags:
 location:
   city: Morimondo
   address: piazza San Bernardo e in corte dei Cistercensi
+thumbnail: images/uploads/mercatini1.png
 ---
