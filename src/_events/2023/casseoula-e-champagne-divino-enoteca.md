@@ -9,4 +9,5 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ DiVino Enoteca, via Magenta 25"
+thumbnail: images/uploads/degustazione2.png
 ---
