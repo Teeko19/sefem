@@ -10,4 +10,5 @@ location:
   city: Morimondo
   address: Abbazia
 thumbnail: images/uploads/concerto1.png
+flyer: images/uploads/img_1774.jpeg
 ---
