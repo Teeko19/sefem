@@ -9,4 +9,5 @@ tags:
 location:
   city: Morimondo
   address: piazza San Bernardo
+flyer: images/uploads/img_1773.jpeg
 ---
