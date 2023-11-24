@@ -10,4 +10,5 @@ location:
   city: Morimondo
   address: piazza San Bernardo
 thumbnail: images/uploads/mercatini1.png
+flyer: images/uploads/img_1773.jpeg
 ---
