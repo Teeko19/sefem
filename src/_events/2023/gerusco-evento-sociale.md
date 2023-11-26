@@ -10,5 +10,6 @@ tags:
 location:
   city: Castellazzo de Barzi
   address: "@Bim Bum Bar"
+thumbnail: images/uploads/divertimento1.png
 flyer: images/uploads/img_1801.jpeg
 ---
