@@ -11,5 +11,6 @@ tags:
 location:
   city: Cassinetta
   address: Per le vie della città
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/img_0079.jpeg
 ---
