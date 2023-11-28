@@ -9,4 +9,5 @@ tags:
 location:
   city: Rosate
   address: via Cascina Nuova, 19
+flyer: images/uploads/img_1819.jpeg
 ---
