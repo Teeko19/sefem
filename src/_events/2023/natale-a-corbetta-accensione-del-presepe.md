@@ -10,5 +10,5 @@ location:
   city: Corbetta
   address: Castellazzo De’ Stampi
 thumbnail: images/uploads/mercatini1.png
-flyer: images/uploads/img_0082.png
+flyer: images/uploads/img_0086.jpeg
 ---
