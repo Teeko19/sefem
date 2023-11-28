@@ -11,5 +11,6 @@ tags:
 location:
   city: Corbetta
   address: Piazza del Popolo
+thumbnail: images/uploads/mercatini1.png
 flyer: images/uploads/img_0082.png
 ---
