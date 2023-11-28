@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: Palestra Scuola Primaria
+thumbnail: images/uploads/teatro1.png
 flyer: images/uploads/img_1823.jpeg
 ---
