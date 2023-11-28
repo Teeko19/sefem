@@ -9,6 +9,6 @@ tags:
 location:
   city: Rosate
   address: presso la Palestra Scuola primaria, via Rimembranze
-thumbnail: images/uploads/eventiperfamiglia1.png
+thumbnail: images/uploads/concerto3.png
 flyer: images/uploads/img_1819.jpeg
 ---
