@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: via Cascina Nuova, 19
+thumbnail: images/uploads/eventiperfamiglia1.png
 flyer: images/uploads/img_1819.jpeg
 ---
