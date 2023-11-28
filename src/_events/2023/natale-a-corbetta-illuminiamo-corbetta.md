@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: "Piazza Corbas "
+thumbnail: images/uploads/anthony-garcia-gthdrlsqehg-unsplash.webp
 flyer: images/uploads/img_0083.jpeg
 ---
