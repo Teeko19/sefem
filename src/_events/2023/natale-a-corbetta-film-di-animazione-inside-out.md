@@ -1,12 +1,12 @@
 ---
 layout: event
-title: Natale a Corbetta - Film di animazione INSIDE OUT
+title: Natale a Corbetta - Film di animazione IL GRANDE GIGANTE GENTILE
 starts_at: 2023-12-10T15:00:00
 ends_at: ""
 all_day: false
 tags:
-  - Cinema
   - Evento per Bambini
+  - Cinema
 location:
   city: Corbetta
   address: Sala Polifunzionale
