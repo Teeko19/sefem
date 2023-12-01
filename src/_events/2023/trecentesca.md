@@ -11,4 +11,5 @@ tags:
 location:
   city: Morimondo
   address: Dietro l’Abbazia
+thumbnail: images/uploads/david-dvoracek-3kbizzluhnc-unsplash.webp
 ---
