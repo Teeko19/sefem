@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Nel cortiletto della “CheBanca”
+thumbnail: images/uploads/mercatini1.png
 flyer: images/uploads/img_1831.jpeg
 ---
