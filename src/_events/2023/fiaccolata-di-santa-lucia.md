@@ -9,5 +9,6 @@ tags:
 location:
   city: Robecco
   address: Sul sagrato della chiesa
+thumbnail: images/uploads/eventiperfamiglia1.png
 flyer: images/uploads/img_d8793990e176-1.jpeg
 ---
