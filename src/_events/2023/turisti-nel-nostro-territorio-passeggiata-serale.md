@@ -9,4 +9,5 @@ tags:
 location:
   city: Castellazzio de Stampi
   address: Ritrovo Parcheggio del Centro Sportivo di Castellazzo
+thumbnail: images/uploads/arek-adeoye-ljocgjs63sm-unsplash.webp
 ---
