@@ -9,5 +9,6 @@ tags:
 location:
   city: Casterno
   address: "@ Molino Santa Marta, via della Valle"
+thumbnail: images/uploads/fooddrink4.png
 flyer: images/uploads/whatsapp-image-2024-01-02-at-07.59.03.jpeg
 ---
