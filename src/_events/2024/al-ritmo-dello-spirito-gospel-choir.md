@@ -9,6 +9,6 @@ tags:
 location:
   city: Rosate
   address: presso Chiesa Parrocchiale S.Stefano
-thumbnail: images/uploads/concerto2.png
+thumbnail: images/uploads/concerto3.png
 flyer: images/uploads/whatsapp-image-2024-01-02-at-07.59.01.jpeg
 ---
