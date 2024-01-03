@@ -10,5 +10,6 @@ tags:
 location:
   city: Mesero
   address: "Centro Socio-Culturale "
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/whatsapp-image-2024-01-03-at-09.31.06.jpeg
 ---
