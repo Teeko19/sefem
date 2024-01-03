@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: piazza Garibaldi, @ Pista da Ghiaccio
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/whatsapp-image-2024-01-03-at-09.31.04.jpeg
 ---
