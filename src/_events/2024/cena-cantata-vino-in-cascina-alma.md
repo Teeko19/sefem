@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Cena Cantata "Vino in Cascina" - Alma#
+title: Cena Cantata "Vino in Cascina" - Alma
 starts_at: 2024-01-27T20:00:00
 ends_at: ""
 all_day: false
