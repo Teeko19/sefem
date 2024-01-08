@@ -9,5 +9,6 @@ tags:
 location:
   city: Inveruno
   address: Biblioteca, Largo S. Pertini 2
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/whatsapp-image-2024-01-08-at-07.48.46.jpeg
 ---
