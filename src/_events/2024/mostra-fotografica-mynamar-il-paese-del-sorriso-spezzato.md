@@ -7,6 +7,6 @@ all_day: false
 location:
   city: Abbiategrasso
   address: Castello Visconteo
-thumbnail: images/uploads/mostra-fotografica.png
+thumbnail: images/uploads/mostra1.png
 flyer: images/uploads/whatsapp-image-2024-01-08-at-07.49.22.jpeg
 ---
