@@ -10,5 +10,6 @@ tags:
 location:
   city: Robecco
   address: da definirsi
+thumbnail: images/uploads/fooddrink1.png
 flyer: images/uploads/whatsapp-image-2024-01-10-at-13.33.44.jpeg
 ---
