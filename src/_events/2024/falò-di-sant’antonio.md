@@ -6,9 +6,9 @@ ends_at: ""
 all_day: false
 tags:
   - Evento per famiglie
-  - Food & Drink
 location:
   city: Rosate
   address: piazza Vittorio Veneto
+thumbnail: images/uploads/eventiperfamiglia1.png
 flyer: images/uploads/img_2250.jpeg
 ---
