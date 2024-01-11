@@ -9,5 +9,6 @@ tags:
 location:
   city: Bareggio
   address: Località Brughiere
+thumbnail: images/uploads/eventiperfamiglia1.png
 flyer: images/uploads/img_2251.jpeg
 ---
