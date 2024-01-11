@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: via Leonardo Da Vinci 6/8
+thumbnail: images/uploads/concerto2.png
 flyer: images/uploads/img_2248.jpeg
 ---
