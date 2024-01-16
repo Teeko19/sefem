@@ -9,5 +9,6 @@ tags:
 location:
   city: Cassinetta
   address: Chiesa di Santa Maria, via Roma 14
+thumbnail: images/uploads/concerto1.png
 flyer: images/uploads/whatsapp-image-2024-01-16-at-15.10.02.jpeg
 ---
