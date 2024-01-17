@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: Biblioteca Daccò, piazza Daccò
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/whatsapp-image-2024-01-17-at-07.09.45.jpeg
 ---
