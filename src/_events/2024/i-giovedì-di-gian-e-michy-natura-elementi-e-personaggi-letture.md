@@ -1,7 +1,7 @@
 ---
 layout: event
 title: I Giovedì di Gian e Michy - Natura, elementi e personaggi - letture
-starts_at: 2024-02-15T17:30:00
+starts_at: 2024-03-14T17:30:00
 ends_at: ""
 all_day: false
 tags:
