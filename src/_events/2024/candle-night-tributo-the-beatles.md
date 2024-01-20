@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: " @ Osteria Antico Oleificio, via Amerigo Vespucci 34"
+thumbnail: images/uploads/concerto3.png
 flyer: images/uploads/whatsapp-image-2024-01-20-at-18.13.09.jpeg
 ---
