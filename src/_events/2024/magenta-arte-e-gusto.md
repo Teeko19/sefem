@@ -10,4 +10,5 @@ tags:
 location:
   city: Magenta
   address: da definire
+thumbnail: images/uploads/markus-spiske-djo4qhtu2sg-unsplash.webp
 ---
