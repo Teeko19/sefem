@@ -9,5 +9,5 @@ tags:
 location:
   city: Magenta
   address: da definire
-thumbnail: images/uploads/incontro1.png
+thumbnail: images/uploads/manifestazione3.png
 ---
