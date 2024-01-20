@@ -10,5 +10,5 @@ tags:
 location:
   city: Magenta
   address: da definire
-thumbnail: images/uploads/manifestazione3.png
+thumbnail: images/uploads/divertimento2.png
 ---
