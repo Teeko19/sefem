@@ -10,5 +10,6 @@ tags:
 location:
   city: Magenta
   address: Centro Paolo VI, via san Martino 13
+thumbnail: images/uploads/fooddrink1.png
 flyer: images/uploads/whatsapp-image-2024-01-20-at-18.13.08.jpeg
 ---
