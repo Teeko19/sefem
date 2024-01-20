@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Sala Polifunzionale A. Salvi, piazza Primo Maggio
+thumbnail: images/uploads/teatro1.png
 flyer: images/uploads/whatsapp-image-2024-01-20-at-18.13.09-1-.jpeg
 ---
