@@ -7,5 +7,6 @@ all_day: true
 location:
   city: Vigano
   address: da definirsi
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2024-01-24-at-13.33.23-1-.jpeg
 ---
