@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: Ritrovo p.zza Salvo D'Acquisto
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/whatsapp-image-2024-01-29-at-09.31.45.jpeg
 ---
