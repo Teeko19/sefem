@@ -10,5 +10,6 @@ tags:
 location:
   city: Busto Arsizio
   address: da definirsi
+thumbnail: images/uploads/divertimento3.png
 flyer: images/uploads/whatsapp-image-2024-01-25-at-08.04.37-1-.jpeg
 ---
