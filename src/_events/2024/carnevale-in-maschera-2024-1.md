@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: Salone beato Paolo VI, via Verdi 53
+thumbnail: images/uploads/divertimento1.png
 flyer: images/uploads/whatsapp-image-2024-01-29-at-11.44.40.jpeg
 ---
