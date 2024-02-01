@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: ritrovo in piazza 1° Maggio
+thumbnail: images/uploads/eventiperbambini2.png
 flyer: images/uploads/whatsapp-image-2024-02-01-at-15.00.58.jpeg
 ---
