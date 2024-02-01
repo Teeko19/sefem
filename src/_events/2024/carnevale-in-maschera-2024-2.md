@@ -9,6 +9,7 @@ tags:
   - Divertimento
 location:
   city: Corbetta
-  address: Circolo associativo, via della Madonna 24
+  address: Salone Beato Paolo VI, via Verdi 53
+thumbnail: images/uploads/divertimento4.png
 flyer: images/uploads/whatsapp-image-2024-02-01-at-15.01.24.jpeg
 ---
