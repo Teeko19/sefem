@@ -9,4 +9,5 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Birra del Parco, via Goffredo Mameli 43"
+thumbnail: images/uploads/divertimento2.png
 ---
