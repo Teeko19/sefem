@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrassso
   address: piazza Castello
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/whatsapp-image-2024-02-02-at-11.23.03.jpeg
 ---
