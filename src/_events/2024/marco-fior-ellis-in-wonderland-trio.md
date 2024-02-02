@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Rinascita, via Novara 2"
+thumbnail: images/uploads/divertimento6.png
 flyer: images/uploads/immagine-2024-02-02-110759.png
 ---
