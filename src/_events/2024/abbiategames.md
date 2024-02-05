@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Sotterranei del Castello Visconteo
+thumbnail: images/uploads/whatsapp-image-2024-02-03-at-14.40.37.jpeg
 flyer: images/uploads/whatsapp-image-2024-02-03-at-14.40.37.jpeg
 ---
