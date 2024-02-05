@@ -10,5 +10,6 @@ tags:
 location:
   city: Cusago
   address: Corte Madonnina
+thumbnail: images/uploads/eventiperbambini2.png
 flyer: images/uploads/whatsapp-image-2024-02-03-at-14.42.02.jpeg
 ---
