@@ -11,5 +11,6 @@ tags:
 location:
   city: Marcallo con Casone
   address: Parco Villa Ghiotti
+thumbnail: images/uploads/david-dvoracek-3kbizzluhnc-unsplash.webp
 flyer: images/uploads/whatsapp-image-2024-02-03-at-14.40.01.jpeg
 ---
