@@ -10,5 +10,6 @@ tags:
 location:
   city: Rosate
   address: presso Centro Civico Morosini, passaggio Pescheria 1
+thumbnail: images/uploads/bambina-che-disegna-nel-suo-taccuino-1-.webp
 flyer: images/uploads/whatsapp-image-2024-02-13-at-08.14.51.jpeg
 ---
