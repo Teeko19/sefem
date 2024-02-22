@@ -10,5 +10,6 @@ tags:
 location:
   city: Casterno
   address: presso Centro Sportivo, viale della Chiesa
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/whatsapp-image-2024-02-22-at-12.42.17.jpeg
 ---
