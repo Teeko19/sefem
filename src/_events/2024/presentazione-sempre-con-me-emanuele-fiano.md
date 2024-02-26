@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: Centro Civico Morosini, Passaggio Pescheria 1
+thumbnail: images/uploads/incontro1.png
 flyer: images/uploads/whatsapp-image-2024-02-26-at-12.55.31.jpeg
 ---
