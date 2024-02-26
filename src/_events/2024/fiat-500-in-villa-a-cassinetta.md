@@ -9,5 +9,6 @@ tags:
 location:
   city: Cassinetta
   address: piazza Comunale
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/immagine-2024-02-26-132918.png
 ---
