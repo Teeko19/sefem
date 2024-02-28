@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: piazza Vittorio Veneto
+thumbnail: images/uploads/mercatini2.png
 flyer: images/uploads/whatsapp-image-2024-02-27-at-13.25.33.jpeg
 ---
