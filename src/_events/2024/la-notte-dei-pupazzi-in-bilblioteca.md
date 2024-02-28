@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Blblioteca, piazza 25 Aprile 10
+thumbnail: images/uploads/bambina-che-disegna-nel-suo-taccuino-1-.webp
 flyer: images/uploads/whatsapp-image-2024-02-27-at-13.25.35.jpeg
 ---
