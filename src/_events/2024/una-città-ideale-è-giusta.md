@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: piazza 5 Giornate
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/whatsapp-image-2024-03-03-at-17.32.57.jpeg
 ---
