@@ -9,5 +9,6 @@ tags:
 location:
   city: Robecco
   address: piazza XXI Luglio
+thumbnail: images/uploads/fooddrink4.png
 flyer: images/uploads/whatsapp-image-2024-03-05-at-13.36.25.jpeg
 ---
