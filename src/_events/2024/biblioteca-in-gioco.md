@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Biblioteca, Castello Visconteo
+thumbnail: images/uploads/eventiperbambini3.png
 flyer: images/uploads/whatsapp-image-2024-03-05-at-13.34.46.jpeg
 ---
