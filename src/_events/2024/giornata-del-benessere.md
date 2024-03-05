@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Sala Polifunzionale, piazza 1° Maggio
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/whatsapp-image-2024-03-05-at-13.35.56.jpeg
 ---
