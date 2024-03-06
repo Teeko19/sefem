@@ -1,7 +1,7 @@
 ---
 layout: event
-title: "Umane Connessioni - Alessandro D'Avenia \"C'era una volta: la nostra
-  odissea quotidiana\""
+title: Umane Connessioni - Alessandro D'Avenia "C'era una volta - la nostra
+  odissea quotidiana"
 starts_at: 2024-03-22T21:00:00
 ends_at: ""
 all_day: false
