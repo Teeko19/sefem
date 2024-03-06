@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Locale 21, corso XX Settembre 9"
+thumbnail: images/uploads/divertimento7.png
 flyer: images/uploads/whatsapp-image-2024-03-06-at-13.57.02.jpeg
 ---
