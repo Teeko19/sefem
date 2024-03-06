@@ -10,5 +10,6 @@ tags:
 location:
   city: Trezzano sul Naviglio
   address: "@ Babalù Cafè, Via Niccolò Copernico 54"
+thumbnail: images/uploads/divertimento1.png
 flyer: images/uploads/whatsapp-image-2024-03-06-at-13.33.13.jpeg
 ---
