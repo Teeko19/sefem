@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Biblioteca, Castello Visconteo
+thumbnail: images/uploads/incontro1.png
 flyer: images/uploads/volantino.jpg
 ---
