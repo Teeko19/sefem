@@ -7,5 +7,6 @@ all_day: false
 location:
   city: Abbiategrasso
   address: sotterranei del Castello Visconteo
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/immagine-2024-03-06-083328.jpg
 ---
