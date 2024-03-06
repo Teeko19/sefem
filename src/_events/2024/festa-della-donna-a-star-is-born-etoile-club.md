@@ -9,5 +9,6 @@ tags:
 location:
   city: Cassinetta
   address: "@ Etoile Club, viale Lombardia 16"
+thumbnail: images/uploads/divertimento5.png
 flyer: images/uploads/whatsapp-image-2024-03-06-at-14.27.33.jpeg
 ---
