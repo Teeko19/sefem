@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Spettacolo "Parliamo di noi..ma racconto io"
+title: Spettacolo - Parliamo di noi..ma racconto io
 starts_at: 2024-03-08T21:00:00
 ends_at: ""
 all_day: false
