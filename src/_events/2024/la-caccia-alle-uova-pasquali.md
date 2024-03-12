@@ -9,5 +9,6 @@ tags:
 location:
   city: Soriano
   address: parco Roberto Tonella
+thumbnail: images/uploads/eventiperbambini2.png
 flyer: images/uploads/immagine-2024-03-12-134139.png
 ---
