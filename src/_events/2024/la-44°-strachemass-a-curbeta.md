@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: parco di Villa Ferrario, via G. Parini
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/immagine-2024-03-12-134137.png
 ---
