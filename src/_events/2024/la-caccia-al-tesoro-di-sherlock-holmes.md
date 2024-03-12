@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: presso Il Mosaiko - Sala Teatro, via Lamarmora 35
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/immagine-2024-03-12-134319.png
 ---
