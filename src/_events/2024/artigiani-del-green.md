@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Castello Visconteo
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/whatsapp-image-2024-03-18-at-07.50.53.jpeg
 ---
