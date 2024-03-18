@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: quartiere Fiera, via Ticino 70
+thumbnail: images/uploads/fooddrink1.png
 flyer: images/uploads/whatsapp-image-2024-03-15-at-08.01.02.jpeg
 ---
