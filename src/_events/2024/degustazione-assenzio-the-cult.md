@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ The Cult Rock Pub, via Cantù 39"
+thumbnail: images/uploads/degustazione3.png
 flyer: images/uploads/whatsapp-image-2024-03-18-at-07.48.29.jpeg
 ---
