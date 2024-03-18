@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Spazio Fiera, Sala convegni - piano 1, via Ticino 72
+thumbnail: images/uploads/mostra1.png
 flyer: images/uploads/whatsapp-image-2024-03-18-at-07.49.42.jpeg
 ---
