@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Via Cattaneo 25
+thumbnail: images/uploads/mostra1.png
 flyer: images/uploads/whatsapp-image-2024-03-22-at-14.12.06.jpeg
 ---
