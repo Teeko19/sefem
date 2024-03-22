@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: vie del centro cittadino
+thumbnail: images/uploads/sagra2.png
 flyer: images/uploads/whatsapp-image-2024-03-22-at-14.11.29.jpeg
 ---
