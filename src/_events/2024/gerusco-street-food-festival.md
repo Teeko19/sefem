@@ -9,7 +9,7 @@ tags:
   - Divertimento
 location:
   city: Robecco
-  address: da definirsi
+  address: Parco di Borgo Archinito
 thumbnail: images/uploads/fooddrink1.png
-flyer: images/uploads/whatsapp-image-2024-01-10-at-13.33.44.jpeg
+flyer: images/uploads/whatsapp-image-2024-03-25-at-7.46.14-am.jpeg
 ---
