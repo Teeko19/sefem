@@ -9,5 +9,6 @@ tags:
 location:
   city: Magenta
   address: Centro Polifunzionale M.Leone, via Matteotti
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2024-03-25-at-7.44.56-am.jpeg
 ---
