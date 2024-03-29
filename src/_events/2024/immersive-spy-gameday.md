@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: Oratorio di Rosate
+thumbnail: images/uploads/eventiperbambini2.png
 flyer: images/uploads/whatsapp-image-2024-03-29-at-7.46.05-am.jpeg
 ---
