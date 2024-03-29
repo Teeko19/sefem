@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: presso Sala Artemisia Gentileschi, via Cattaneo 25
+thumbnail: images/uploads/mostra2.png
 flyer: images/uploads/whatsapp-image-2024-03-29-at-7.44.44-am.jpeg
 ---
