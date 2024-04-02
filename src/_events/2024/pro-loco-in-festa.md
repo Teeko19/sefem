@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: "@ Area Feste, via Gramsci"
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/whatsapp-image-2024-04-02-at-1.21.02-pm.jpeg
 ---
