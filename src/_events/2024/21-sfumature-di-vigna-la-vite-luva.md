@@ -1,6 +1,6 @@
 ---
 layout: event
-title: 21 Sfumature di vigna - La vite l'uva
+title: 21 Sfumature di vigna - 1° serata -La vite l'uva-
 starts_at: 2024-05-08T21:00:00
 ends_at: ""
 all_day: false
