@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Corso di Vino @ Enoteca DiVino
-starts_at: 2024-04-16T21:00:00
+starts_at: 2024-04-16T20:30:00
 ends_at: ""
 all_day: false
 tags:
