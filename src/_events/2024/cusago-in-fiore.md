@@ -9,5 +9,6 @@ tags:
 location:
   city: Cusago
   address: piazza Soncino
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/whatsapp-image-2024-04-02-at-1.22.16-pm.jpeg
 ---
