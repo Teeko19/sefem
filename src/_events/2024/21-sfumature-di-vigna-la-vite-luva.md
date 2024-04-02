@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Locale 21"
+thumbnail: images/uploads/degustazione1.png
 flyer: images/uploads/whatsapp-image-2024-04-02-at-1.20.28-pm.jpeg
 ---
