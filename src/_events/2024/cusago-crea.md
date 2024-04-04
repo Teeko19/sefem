@@ -9,5 +9,6 @@ tags:
 location:
   city: Cusago
   address: piazza Castello
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2024-04-03-at-1.26.56-pm.jpeg
 ---
