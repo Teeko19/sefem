@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: villa Sanchioli
+thumbnail: images/uploads/divertimento4.png
 flyer: images/uploads/whatsapp-image-2024-04-10-at-07.50.02.jpeg
 ---
