@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: "@ Area festa, via Gramsci"
+thumbnail: images/uploads/sport2.png
 flyer: images/uploads/whatsapp-image-2024-04-10-at-07.47.44-1-.jpeg
 ---
