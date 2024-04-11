@@ -9,5 +9,6 @@ tags:
 location:
   city: Trezzano
   address: partenza in via Togliatti
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/whatsapp-image-2024-04-11-at-07.45.59.jpeg
 ---
