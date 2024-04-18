@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: per le vie della città
+thumbnail: images/uploads/arek-adeoye-ljocgjs63sm-unsplash.webp
 flyer: images/uploads/whatsapp-image-2024-04-18-at-07.52.16.jpeg
 ---
