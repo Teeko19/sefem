@@ -9,5 +9,6 @@ tags:
 location:
   city: Corsico
   address: via Giacomo Leopardi 7
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/whatsapp-image-2024-04-18-at-07.48.20.jpeg
 ---
