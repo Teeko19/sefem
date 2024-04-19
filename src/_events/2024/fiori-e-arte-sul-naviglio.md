@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: Via Gozzadini, alzaia lungo il Naviglio
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/whatsapp-image-2024-04-18-at-17.42.28.jpeg
 ---
