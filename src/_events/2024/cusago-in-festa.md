@@ -7,5 +7,6 @@ all_day: false
 location:
   city: Cusago
   address: per le vie della città
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/whatsapp-image-2024-04-30-at-07.48.53.jpeg
 ---
