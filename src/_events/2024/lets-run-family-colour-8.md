@@ -10,5 +10,6 @@ tags:
 location:
   city: Robecco
   address: ritrovo Oratorio S. Giovanni Bosco
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/whatsapp-image-2024-04-30-at-07.47.22.jpeg
 ---
