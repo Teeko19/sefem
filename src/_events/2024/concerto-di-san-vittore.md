@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Chiesa Prepositurale
+thumbnail: images/uploads/concerto3.png
 flyer: images/uploads/whatsapp-image-2024-04-30-at-13.29.01.jpeg
 ---
