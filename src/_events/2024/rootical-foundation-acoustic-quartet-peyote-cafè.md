@@ -9,5 +9,6 @@ tags:
 location:
   city: "Magenta "
   address: "@ Peyote Cafè, via Cascina Peralza 12"
+thumbnail: images/uploads/divertimento6.png
 flyer: images/uploads/whatsapp-image-2024-04-30-at-07.48.27.jpeg
 ---
