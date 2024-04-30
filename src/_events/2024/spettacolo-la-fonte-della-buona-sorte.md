@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: via Lamarmora 35
+thumbnail: images/uploads/teatro2.png
 flyer: images/uploads/whatsapp-image-2024-04-30-at-13.27.53.jpeg
 ---
