@@ -9,5 +9,6 @@ tags:
 location:
   city: Mesero
   address: Biblioteca, piazza Europa
+thumbnail: images/uploads/mostra2.png
 flyer: images/uploads/whatsapp-image-2024-05-02-at-07.53.26.jpeg
 ---
