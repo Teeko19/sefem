@@ -7,8 +7,10 @@ all_day: false
 tags:
   - Evento per famiglie
   - Sport
+  - Food & Drink
 location:
   city: Mesero
   address: ritrovo presso Oratorio S. Giovanni Bosco, via Garibaldi
+thumbnail: images/uploads/sport2.png
 flyer: images/uploads/whatsapp-image-2024-05-02-at-07.53.52.jpeg
 ---
