@@ -10,5 +10,6 @@ tags:
 location:
   city: Inveruno
   address: Cortile del Torchio, via Marcora 38/40
+thumbnail: images/uploads/divertimento4.png
 flyer: images/uploads/whatsapp-image-2024-05-07-at-07.43.27.jpeg
 ---
