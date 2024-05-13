@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: piazza Corbas, via S. Vittore, piazza del Popolo
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/whatsapp-image-2024-05-13-at-07.50.48.jpeg
 ---
