@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: ingresso da piazza Camillo Golgi 11
+thumbnail: images/uploads/degustazione3.png
 flyer: images/uploads/whatsapp-image-2024-05-14-at-10.30.15.jpeg
 ---
