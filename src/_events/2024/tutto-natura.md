@@ -11,5 +11,6 @@ tags:
 location:
   city: Inveruno
   address: Parco Comunale di Vill Tanzi, via Marcora 38
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2024-05-15-at-13.32.25.jpeg
 ---
