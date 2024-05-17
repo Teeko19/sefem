@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: piazza di Rosate
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2024-05-16-at-13.06.08.jpeg
 ---
