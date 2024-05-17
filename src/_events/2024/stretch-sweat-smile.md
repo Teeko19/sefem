@@ -9,5 +9,6 @@ tags:
 location:
   city: Magenta
   address: "@ Cascina Pietrasanta,  via della Valle 8"
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/whatsapp-image-2024-05-16-at-09.33.07.jpeg
 ---
