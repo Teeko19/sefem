@@ -10,5 +10,6 @@ tags:
 location:
   city: Vigano Certosino
   address: presso area feste
+thumbnail: images/uploads/divertimento1.png
 flyer: images/uploads/whatsapp-image-2024-05-16-at-13.04.52.jpeg
 ---
