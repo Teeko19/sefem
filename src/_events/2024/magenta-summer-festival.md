@@ -9,6 +9,7 @@ tags:
   - Sagra
 location:
   city: Magenta
-  address: da definire
+  address: Tensostruttura, piazza Mercato
 thumbnail: images/uploads/divertimento2.png
+flyer: images/uploads/whatsapp-image-2024-05-16-at-09.51.46.jpeg
 ---
