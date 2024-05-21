@@ -11,5 +11,6 @@ tags:
 location:
   city: Corsico
   address: Parco degli Alpini. via Verdi
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2024-05-20-at-21.12.05-2-.jpeg
 ---
