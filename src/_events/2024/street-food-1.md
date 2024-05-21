@@ -10,5 +10,6 @@ tags:
 location:
   city: Vermezzo con Zelo
   address: presso il Bosco in Città
+thumbnail: images/uploads/divertimento1.png
 flyer: images/uploads/whatsapp-image-2024-05-20-at-21.12.06.jpeg
 ---
