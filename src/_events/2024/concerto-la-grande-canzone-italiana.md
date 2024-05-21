@@ -9,5 +9,6 @@ tags:
 location:
   city: Cassinetta
   address: presso Casa Mantegazza, via Roma 81
+thumbnail: images/uploads/concerto1.png
 flyer: images/uploads/whatsapp-image-2024-05-20-at-21.12.05.jpeg
 ---
