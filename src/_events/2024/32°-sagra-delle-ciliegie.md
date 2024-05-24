@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso il Parco degli Alpini, via Porcellini
+thumbnail: images/uploads/mercatini2.png
 flyer: images/uploads/whatsapp-image-2024-05-24-at-13.30.42.jpeg
 ---
