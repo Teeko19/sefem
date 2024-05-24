@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: Bosco dei Cento Passi
+thumbnail: images/uploads/anthony-garcia-gthdrlsqehg-unsplash.webp
 flyer: images/uploads/whatsapp-image-2024-05-24-at-13.31.18.jpeg
 ---
