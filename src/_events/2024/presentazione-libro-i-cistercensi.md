@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: Abbazia, sala dell'antico refettorio
+thumbnail: images/uploads/incontro1.png
 flyer: images/uploads/whatsapp-image-2024-05-22-at-12.04.36.jpeg
 ---
