@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: piazza della Repubblica
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2024-05-27-at-17.37.04.jpeg
 ---
