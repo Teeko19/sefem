@@ -10,5 +10,6 @@ tags:
 location:
   city: Trezzano
   address: Centro Feste Ugo Tognazzi
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2024-05-28-at-09.23.31.jpeg
 ---
