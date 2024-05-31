@@ -11,5 +11,6 @@ tags:
 location:
   city: Arluno
   address: Parco dell'Orologio
+thumbnail: images/uploads/fooddrink2.png
 flyer: images/uploads/whatsapp-image-2024-05-31-at-07.42.41.jpeg
 ---
