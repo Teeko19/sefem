@@ -1,7 +1,7 @@
 ---
 layout: event
-title: Cena Cantata "Vino in Cascina" - Limementali
-starts_at: 2023-11-17T20:00:00
+title: '"Vino in Cascina" - Limementali'
+starts_at: 2024-06-07T19:30:00
 ends_at: ""
 all_day: false
 tags:
@@ -10,6 +10,6 @@ tags:
 location:
   city: Ozzero
   address: "@ Agriturismo Cascina Selva"
-thumbnail: images/uploads/fooddrink4.png
-flyer: images/uploads/img_1587.jpeg
+thumbnail: images/uploads/divertimento1.png
+flyer: images/uploads/whatsapp-image-2024-05-29-at-07.59.16.jpeg
 ---
