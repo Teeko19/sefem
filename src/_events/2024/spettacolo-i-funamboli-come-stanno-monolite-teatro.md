@@ -1,0 +1,13 @@
+---
+layout: event
+title: Spettacolo - "I Funamboli come stanno" - Monolite Teatro
+starts_at: 2024-06-13T21:00:00
+ends_at: ""
+all_day: false
+tags:
+  - Teatro
+location:
+  city: Abbiategrasso
+  address: presso Ex convento dell'Annunciata, via Pontida 22
+flyer: images/uploads/whatsapp-image-2024-06-01-at-13.21.44.jpeg
+---
