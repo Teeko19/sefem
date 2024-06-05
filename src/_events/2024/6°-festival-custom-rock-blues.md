@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: stadio comunale Invernizzi, via G. Sforza 160
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/whatsapp-image-2024-06-03-at-14.39.11.jpeg
 ---
