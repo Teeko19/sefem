@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: piazza Garibaldi 8, piazza Castello
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2024-06-11-at-07.45.04.jpeg
 ---
