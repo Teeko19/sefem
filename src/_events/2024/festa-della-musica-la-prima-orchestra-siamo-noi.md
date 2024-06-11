@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: via Vittorio Veneto
+thumbnail: images/uploads/concerto2.png
 flyer: images/uploads/whatsapp-image-2024-06-11-at-07.45.26.jpeg
 ---
