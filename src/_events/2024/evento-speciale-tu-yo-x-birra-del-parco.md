@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Evento Speciale - Tu&YO x Birra del Parco
+title: Evento Speciale - Birra del Parco
 starts_at: 2024-06-15T16:00:00
 ends_at: ""
 all_day: false
