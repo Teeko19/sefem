@@ -9,5 +9,6 @@ tags:
 location:
   city: San Vito di Gaggiano
   address: presso Area Feste
+thumbnail: images/uploads/sagra1.png
 flyer: images/uploads/whatsapp-image-2024-06-13-at-15.28.30.jpeg
 ---
