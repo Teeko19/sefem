@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: piazza San Pietro
+thumbnail: images/uploads/sagra2.png
 flyer: images/uploads/whatsapp-image-2024-06-13-at-15.28.52.jpeg
 ---
