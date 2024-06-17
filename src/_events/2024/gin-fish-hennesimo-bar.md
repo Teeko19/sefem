@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Hennesimo Bar, corso XX Settembre 21"
+thumbnail: images/uploads/degustazione3.png
 flyer: images/uploads/whatsapp-image-2024-06-15-at-17.21.57.jpeg
 ---
