@@ -9,5 +9,6 @@ tags:
 location:
   city: Cisliano
   address: piazza San Giovanni
+thumbnail: images/uploads/sagra2.png
 flyer: images/uploads/whatsapp-image-2024-06-17-at-07.40.35.jpeg
 ---
