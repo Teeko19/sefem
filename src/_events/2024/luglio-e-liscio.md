@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: Villa Pagani della Torre, Piazza XXV Aprile 8
+thumbnail: images/uploads/divertimento3.png
 flyer: images/uploads/whatsapp-image-2024-06-26-at-07.41.36.jpeg
 ---
