@@ -11,5 +11,6 @@ tags:
 location:
   city: Vigano
   address: presso Aree Feste
+thumbnail: images/uploads/divertimento6.png
 flyer: images/uploads/whatsapp-image-2024-06-26-at-07.41.10.jpeg
 ---
