@@ -7,6 +7,7 @@ all_day: false
 tags:
   - Divertimento
   - Food & Drink
+  - Concerto
 location:
   city: Corbetta
   address: Villa Pagani della Torre, Piazza XXV Aprile 8
