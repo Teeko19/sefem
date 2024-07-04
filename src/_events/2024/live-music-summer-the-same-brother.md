@@ -10,5 +10,6 @@ tags:
 location:
   city: Ozzero
   address: via 1º Maggio
+thumbnail: images/uploads/divertimento6.png
 flyer: images/uploads/06f9b96a-ca7a-44fc-b9d7-86ce1f853928.jpeg
 ---
