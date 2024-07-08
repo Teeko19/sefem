@@ -11,5 +11,6 @@ tags:
 location:
   city: Cisliano
   address: via Cusago 2
+thumbnail: images/uploads/divertimento4.png
 flyer: images/uploads/whatsapp-image-2024-07-08-at-07.50.30.jpeg
 ---
