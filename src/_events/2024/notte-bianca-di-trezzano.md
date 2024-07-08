@@ -11,5 +11,6 @@ tags:
 location:
   city: Trezzano sul Naviglio
   address: per le vie della città
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/whatsapp-image-2024-07-08-at-07.47.56.jpeg
 ---
