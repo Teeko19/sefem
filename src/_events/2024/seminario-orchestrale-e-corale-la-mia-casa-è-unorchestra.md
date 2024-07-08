@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Ex Convento dell'Annunciata
+thumbnail: images/uploads/concerto1.png
 flyer: images/uploads/whatsapp-image-2024-07-08-at-07.48.28.jpeg
 ---
