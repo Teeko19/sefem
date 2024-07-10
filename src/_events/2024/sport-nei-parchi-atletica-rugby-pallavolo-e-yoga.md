@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Parco della Darsena, via Tommaso Grossi 11
+thumbnail: images/uploads/sport4.png
 flyer: images/uploads/whatsapp-image-2024-07-09-at-21.48.30.jpeg
 ---
