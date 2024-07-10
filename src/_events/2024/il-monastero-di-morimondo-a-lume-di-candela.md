@@ -10,5 +10,6 @@ location:
   city: Morimondo
   address: "@ Museo dell'Abbazia"
 link: https://www.abbaziamorimondo.it/visita-notturna
+thumbnail: images/uploads/cmophoto-net-xug7wn6bh4i-unsplash.webp
 flyer: images/uploads/whatsapp-image-2024-07-10-at-07.58.16.jpeg
 ---
