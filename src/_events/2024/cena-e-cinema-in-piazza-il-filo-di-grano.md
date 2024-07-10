@@ -10,5 +10,6 @@ tags:
 location:
   city: Morimondo
   address: "@ Ristorante Il Filo di Grano, Corte dei Cistercensi 6"
+thumbnail: images/uploads/cinema1.png
 flyer: images/uploads/whatsapp-image-2024-07-09-at-21.49.17.jpeg
 ---
