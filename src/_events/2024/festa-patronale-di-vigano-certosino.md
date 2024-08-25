@@ -11,5 +11,6 @@ tags:
 location:
   city: Vigano Certosino
   address: luoghi indicati sulla locandina
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/img_3784.jpg
 ---
