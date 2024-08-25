@@ -10,4 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: via Marconi 25
+thumbnail: images/uploads/divertimento1.png
+flyer: images/uploads/095e3171-b880-405b-aa4a-9abdd86fb08d.jpg
 ---
