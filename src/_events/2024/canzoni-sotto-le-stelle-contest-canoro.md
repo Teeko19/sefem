@@ -9,5 +9,6 @@ tags:
 location:
   city: Robecco S/N
   address: Castellazzo de' Barzi, via san Carlo 2
+thumbnail: images/uploads/divertimento8.png
 flyer: images/uploads/b59fef09-d93a-4055-96c3-04c8bccc34c5.jpg
 ---
