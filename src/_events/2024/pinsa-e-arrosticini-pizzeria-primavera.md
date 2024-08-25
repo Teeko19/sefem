@@ -9,6 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: via Roma 170
-thumbnail: images/uploads/divertimento1.png
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/095e3171-b880-405b-aa4a-9abdd86fb08d.jpg
 ---
