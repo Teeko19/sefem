@@ -8,8 +8,10 @@ tags:
   - Manifestazione
   - Food & Drink
   - Divertimento
+  - Evento per famiglie
 location:
   city: Ozzero
   address: per le vie della città
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/whatsapp-image-2024-08-26-at-13.03.01.jpeg
 ---
