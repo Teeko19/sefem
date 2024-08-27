@@ -11,5 +11,6 @@ tags:
 location:
   city: Boffalora
   address: per le vie della città
+thumbnail: images/uploads/divertimento4.png
 flyer: images/uploads/whatsapp-image-2024-08-27-at-09.41.50.jpeg
 ---
