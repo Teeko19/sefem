@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso The Cult Pub, via C. Cantù 33
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/whatsapp-image-2024-08-27-at-09.48.57.jpeg
 ---
