@@ -11,5 +11,6 @@ tags:
 location:
   city: Robecco S/N
   address: per le vie della città
+thumbnail: images/uploads/sagra1.png
 flyer: images/uploads/immagine-2024-08-28-152428.png
 ---
