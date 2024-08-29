@@ -11,5 +11,6 @@ tags:
 location:
   city: Corbetta
   address: Rione Malpaga, parco Enzo Ferrari, via don Sacchi
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/immagine-2024-08-29-133159.png
 ---
