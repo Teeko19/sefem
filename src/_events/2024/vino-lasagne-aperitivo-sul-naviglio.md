@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: via Roma 150
+thumbnail: images/uploads/divertimento1.png
 flyer: images/uploads/whatsapp-image-2024-09-01-at-17.40.34.jpeg
 ---
