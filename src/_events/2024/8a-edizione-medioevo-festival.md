@@ -10,5 +10,6 @@ tags:
 location:
   city: Trezzano S/N
   address: Parco del Centenario, ingresso via del Borgo
+thumbnail: images/uploads/eventiperfamiglia1.png
 flyer: images/uploads/whatsapp-image-2024-09-02-at-21.33.35.jpeg
 ---
