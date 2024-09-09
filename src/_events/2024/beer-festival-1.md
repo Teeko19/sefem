@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: Piazza delle Giostre
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2024-09-07-at-21.52.14.jpeg
 ---
