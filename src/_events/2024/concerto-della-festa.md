@@ -9,5 +9,6 @@ tags:
 location:
   city: Cassinetta
   address: piazza Gaetano Negri
+thumbnail: images/uploads/concerto1.png
 flyer: images/uploads/whatsapp-image-2024-09-07-at-21.53.23.jpeg
 ---
