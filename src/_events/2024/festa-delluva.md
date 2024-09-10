@@ -11,5 +11,6 @@ tags:
 location:
   city: Vigano
   address: Area Feste Vigano Certosino, via Gamberina SNC
+thumbnail: images/uploads/mercatini1.png
 flyer: images/uploads/whatsapp-image-2024-09-10-at-10.59.24.jpeg
 ---
