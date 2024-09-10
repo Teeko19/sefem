@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: "@ Strafile, SS494"
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/whatsapp-image-2024-09-06-at-19.17.25-1-.jpeg
 ---
