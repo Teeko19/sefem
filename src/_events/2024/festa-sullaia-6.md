@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Cascina Vecchia Rossa, strada Prabalò"
+thumbnail: images/uploads/eventiperbambini2.png
 flyer: images/uploads/whatsapp-image-2024-09-10-at-08.02.36.jpeg
 ---
