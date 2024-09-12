@@ -10,5 +10,6 @@ tags:
 location:
   city: Robecco
   address: Oratorio San Giovanni Bosco
+thumbnail: images/uploads/eventiperfamiglia1.png
 flyer: images/uploads/whatsapp-image-2024-09-12-at-12.02.18.jpeg
 ---
