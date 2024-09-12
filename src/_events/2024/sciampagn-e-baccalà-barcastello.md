@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ BarCastello, piazza Castello"
+thumbnail: images/uploads/degustazione2.png
 flyer: images/uploads/whatsapp-image-2024-09-12-at-07.37.55-1-.jpeg
 ---
