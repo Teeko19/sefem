@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "\"Due ruote nei sapori d'autunno\" - Pedalata Enogastronomica"
-starts_at: 2024-09-22T21:00:00
+starts_at: 2024-09-29T21:00:00
 ends_at: ""
 all_day: true
 tags:
