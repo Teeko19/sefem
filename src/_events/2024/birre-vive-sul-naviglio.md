@@ -11,5 +11,6 @@ tags:
 location:
   city: Gaggiano
   address: Lungo il Naviglio
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2024-09-12-at-23.20.09.jpeg
 ---
