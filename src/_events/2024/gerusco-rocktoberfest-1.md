@@ -10,5 +10,5 @@ location:
   city: Robecco
   address: da definirsi
 thumbnail: images/uploads/divertimento2.png
-flyer: images/uploads/whatsapp-image-2024-01-10-at-13.33.44.jpeg
+flyer: images/uploads/whatsapp-image-2024-09-13-at-09.20.17.jpeg
 ---
