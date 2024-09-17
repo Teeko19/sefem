@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: quartiere Fiera, via Ticino 72
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/immagine-2024-09-16-081640.png
 ---
