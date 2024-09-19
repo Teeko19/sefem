@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbaitegrasso
   address: Teatro al Corso
+thumbnail: images/uploads/teatro2.png
 flyer: images/uploads/whatsapp-image-2024-09-19-at-12.49.13.jpeg
 ---
