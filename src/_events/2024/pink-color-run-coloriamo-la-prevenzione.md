@@ -10,5 +10,6 @@ tags:
 location:
   city: Robecco
   address: parco Villa Terzaghi
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/whatsapp-image-2024-09-24-at-11.38.49.jpeg
 ---
