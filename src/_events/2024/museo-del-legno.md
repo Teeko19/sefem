@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: via Caldara, ang via Petrarca
+thumbnail: images/uploads/bambina-che-disegna-nel-suo-taccuino-1-.webp
 flyer: images/uploads/immagine-2024-09-24-134632.png
 ---
