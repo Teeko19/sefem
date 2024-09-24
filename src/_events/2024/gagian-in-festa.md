@@ -13,5 +13,5 @@ location:
   city: Gaggiano
   address: lungo le sponde del Naviglio
 thumbnail: images/uploads/sagra1.png
-flyer: images/uploads/7a512e51-6508-4283-8ca8-1a06b18927f1.jpg
+flyer: images/uploads/whatsapp-image-2024-09-24-at-11.36.59.jpeg
 ---
