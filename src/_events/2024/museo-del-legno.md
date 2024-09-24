@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Museo del Legno
+title: Museo del Legno in Festa
 starts_at: 2024-10-06T14:30:00
 ends_at: ""
 all_day: false
