@@ -10,4 +10,5 @@ tags:
 location:
   city: Cuggiono
   address: presso Villa Annoni
+thumbnail: images/uploads/ashley-owen-cq6jyslww2e-unsplash.webp
 ---
