@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: piazza Corbas, via S. Vittore, piazza del Popolo
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/whatsapp-image-2024-09-30-at-09.36.56.jpeg
 ---
