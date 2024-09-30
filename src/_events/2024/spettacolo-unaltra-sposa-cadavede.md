@@ -9,5 +9,6 @@ tags:
 location:
   city: Corsico
   address: Teatro san Luigi, via Dante 3
+thumbnail: images/uploads/teatro1.png
 flyer: images/uploads/whatsapp-image-2024-09-30-at-12.03.00.jpeg
 ---
