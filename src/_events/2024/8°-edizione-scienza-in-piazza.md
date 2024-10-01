@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: piazza del Popolo
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/whatsapp-image-2024-10-01-at-07.46.52.jpeg
 ---
