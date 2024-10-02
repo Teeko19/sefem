@@ -10,5 +10,6 @@ tags:
 location:
   city: Vigano
   address: "Ex scuola materna "
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2024-10-01-at-18.18.35.jpeg
 ---
