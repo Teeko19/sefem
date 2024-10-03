@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: presso Bosco Eremo Locatelli, via Cascina Nuova
+thumbnail: images/uploads/eventiperbambini2.png
 flyer: images/uploads/screenshot-2024-10-02-17.40.15-.png
 ---
