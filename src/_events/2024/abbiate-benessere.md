@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: fiera di Abbiategrasso
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/screenshot-2024-10-06-09.16.48-.png
 ---
