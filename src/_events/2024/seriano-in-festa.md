@@ -9,5 +9,6 @@ tags:
 location:
   city: Sedriano
   address: piazza Mercato
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/screenshot-2024-10-06-09.16.18-.png
 ---
