@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: presso Villa Pagani, piazza XXV Aprile
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/screenshot-2024-10-09-07.46.44-.png
 ---
