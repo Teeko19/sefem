@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Sala Don Sacchi, piazza Canonica 5
+thumbnail: images/uploads/mostra1.png
 flyer: images/uploads/screenshot-2024-10-15-11.37.15-.png
 ---
