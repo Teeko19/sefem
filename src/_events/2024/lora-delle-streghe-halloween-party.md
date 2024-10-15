@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso Agriturismo i Leprotti,  Str. Vicinale della Canova, snc
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/screenshot-2024-10-14-19.07.44-.png
 ---
