@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: presso Area Feste, via Gramsci 36
+thumbnail: images/uploads/divertimento5.png
 flyer: images/uploads/screenshot-2024-10-14-20.28.15-.png
 ---
