@@ -10,5 +10,6 @@ tags:
 location:
   city: Rosate
   address: via Silvio Pellico 12
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/screenshot-2024-10-16-12.19.18-.png
 ---
