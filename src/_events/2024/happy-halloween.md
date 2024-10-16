@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: luoghi indicati in locandina
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/screenshot-2024-10-16-12.19.57-.png
 ---
