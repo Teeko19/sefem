@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: piazza dell'Abbazia
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/screenshot-2024-10-15-15.59.43-.png
 ---
