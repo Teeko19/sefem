@@ -11,5 +11,6 @@ tags:
 location:
   city: Cisliano
   address: piazza San Giovanni
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/screenshot-2024-10-16-21.44.15-.png
 ---
