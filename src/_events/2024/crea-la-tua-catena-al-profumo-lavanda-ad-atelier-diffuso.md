@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso AD Atelier Diffuso, piazza 5 Giornate 3
+thumbnail: images/uploads/gazzi-intorno-al-tavolo-della-scuola-1-.webp
 flyer: images/uploads/screenshot-2024-10-16-12.20.53-.png
 ---
