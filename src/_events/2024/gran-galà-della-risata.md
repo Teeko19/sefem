@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso Teatro Fiera
+thumbnail: images/uploads/teatro1.png
 flyer: images/uploads/httpsoooh.eventseventogran-gala-risata-biglietti.png
 ---
