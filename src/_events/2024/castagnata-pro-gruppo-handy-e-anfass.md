@@ -9,4 +9,5 @@ tags:
 location:
   city: Abbiategrasso
   address: piazza Marconi
+thumbnail: images/uploads/manifestazione1.png
 ---
