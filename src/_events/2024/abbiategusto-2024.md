@@ -11,4 +11,5 @@ tags:
 location:
   city: Abbiategrasso
   address: presso il Castello Visconteo, piazza Castello 31
+thumbnail: images/uploads/fooddrink4.png
 ---
