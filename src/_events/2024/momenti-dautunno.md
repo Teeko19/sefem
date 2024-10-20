@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: luoghi indicati sulla locandina
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/screenshot-2024-10-19-15.07.54-.png
 ---
