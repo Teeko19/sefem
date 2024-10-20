@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: piazza Castello
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/screenshot-2024-10-19-15.09.06-.png
 ---
