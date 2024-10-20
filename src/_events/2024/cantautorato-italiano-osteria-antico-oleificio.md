@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso Osteria Antico Oleificio, via A. Vespucci 34
+thumbnail: images/uploads/divertimento8.png
 flyer: images/uploads/screenshot-2024-10-19-15.08.19-.png
 ---
