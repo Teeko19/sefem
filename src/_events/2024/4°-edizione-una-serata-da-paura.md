@@ -9,5 +9,6 @@ tags:
 location:
   city: Cisliano
   address: presso Sala Polifunzionale, via dell'Olmetto
+thumbnail: images/uploads/incontro1.png
 flyer: images/uploads/screenshot-2024-10-22-07.17.40-.png
 ---
