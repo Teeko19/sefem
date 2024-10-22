@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: presso Strafile Pizzeria con Cucina, SS494
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/screenshot-2024-10-22-07.16.26-.png
 ---
