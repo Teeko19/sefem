@@ -10,5 +10,6 @@ tags:
 location:
   city: Vigevano
   address: piazza Ducale
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/screenshot-2024-10-22-07.18.45-.png
 ---
