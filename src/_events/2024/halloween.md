@@ -9,5 +9,6 @@ tags:
 location:
   city: Inveruno
   address: presso Cortile del Torchio
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/screenshot-2024-10-25-07.44.18-.png
 ---
