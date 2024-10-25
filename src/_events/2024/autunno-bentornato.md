@@ -9,5 +9,6 @@ tags:
 location:
   city: Ozzero
   address: presso l'Oratorio
+thumbnail: images/uploads/fooddrink1.png
 flyer: images/uploads/screenshot-2024-10-25-07.43.23-.png
 ---
