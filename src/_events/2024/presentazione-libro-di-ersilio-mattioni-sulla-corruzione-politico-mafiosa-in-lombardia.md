@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: presso Sala Grassi - Municipio, via Cattaneo 25
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/screenshot-2024-10-23-15.05.31-.png
 ---
