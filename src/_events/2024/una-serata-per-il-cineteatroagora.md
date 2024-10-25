@@ -10,5 +10,6 @@ tags:
 location:
   city: Robecco
   address: presso la Tensostruttura
+thumbnail: images/uploads/divertimento1.png
 flyer: images/uploads/screenshot-2024-10-25-07.45.01-.png
 ---
