@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Spettacolo - Un'altra sposa cadavede
+title: Spettacolo - Un'altra sposa cadavere
 starts_at: 2024-10-26T20:45:00
 ends_at: ""
 all_day: false
