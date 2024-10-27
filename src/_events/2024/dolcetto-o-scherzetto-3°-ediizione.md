@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Dolcetto o Scherzetto 3° Ediizione
+title: Dolcetto o Scherzetto 3° Edizione
 starts_at: 2024-10-31T18:00:00
 ends_at: ""
 all_day: false
