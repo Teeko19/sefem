@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso La Birra del Parco, via Mameli 4
+thumbnail: images/uploads/divertimento7.png
 flyer: images/uploads/screenshot-2024-10-26-13.00.56-.png
 ---
