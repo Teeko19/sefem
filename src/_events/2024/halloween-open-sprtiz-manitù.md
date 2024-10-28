@@ -9,4 +9,5 @@ tags:
 location:
   city: Gaggiano
   address: presso Bar Manitù, parco Baronella
+thumbnail: images/uploads/divertimento1.png
 ---
