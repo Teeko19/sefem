@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: presso Museo dell'Abbazia
+thumbnail: images/uploads/mostra2.png
 flyer: images/uploads/screenshot-2024-10-28-21.53.27-.png
 ---
