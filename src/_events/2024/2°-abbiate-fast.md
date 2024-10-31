@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: per le vie della Città
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/screenshot-2024-10-28-21.53.56-.png
 ---
