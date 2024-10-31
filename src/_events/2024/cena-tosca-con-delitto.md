@@ -8,7 +8,7 @@ tags:
   - Food & Drink
   - Teatro
 location:
-  city: Corbtetta
+  city: Corbetta
   address: salone Beato Paolo VI, via Verdi 53
 thumbnail: images/uploads/fooddrink4.png
 flyer: images/uploads/screenshot-2024-10-09-07.47.11-.png
