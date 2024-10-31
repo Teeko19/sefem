@@ -9,5 +9,6 @@ tags:
 location:
   city: Inveruno
   address: Area Fiera di via Manzoni
+thumbnail: images/uploads/divertimento5.png
 flyer: images/uploads/screenshot-2024-10-31-13.18.43-.png
 ---
