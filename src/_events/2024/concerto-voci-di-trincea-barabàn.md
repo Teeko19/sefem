@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: presso Salone Polifunzionale, via Primo Maggio
+thumbnail: images/uploads/concerto1.png
 flyer: images/uploads/screenshot-2024-10-28-21.55.15-.png
 ---
