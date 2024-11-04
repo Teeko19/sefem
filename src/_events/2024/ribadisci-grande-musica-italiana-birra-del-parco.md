@@ -6,9 +6,10 @@ ends_at: ""
 all_day: false
 tags:
   - Divertimento
+  - Food & Drink
 location:
   city: Abbiategrasso
   address: presso Birra del Parco, via Mameli 43
-thumbnail: images/uploads/incontro3.png
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/screenshot-2024-11-02-20.32.48-.png
 ---
