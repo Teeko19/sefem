@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: parco del Ticino
+thumbnail: images/uploads/eventiperfamiglia1.png
 flyer: images/uploads/screenshot-2024-10-28-21.54.56-.png
 ---
