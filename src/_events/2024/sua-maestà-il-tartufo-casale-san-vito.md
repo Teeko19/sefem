@@ -9,5 +9,6 @@ tags:
 location:
   city: San Vito
   address: "@ Casale San Vito, via Marta Lodi 2"
+thumbnail: images/uploads/fooddrink4.png
 flyer: images/uploads/screenshot-2024-11-07-13.10.57-.png
 ---
