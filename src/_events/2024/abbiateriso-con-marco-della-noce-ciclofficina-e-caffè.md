@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Ciclofficina & Caffè, via Alighieri 113"
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/screenshot-2024-11-07-13.14.50-.png
 ---
