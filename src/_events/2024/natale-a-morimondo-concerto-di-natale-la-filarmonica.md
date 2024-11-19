@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: presso l'Abbazia
+thumbnail: images/uploads/concerto3.png
 flyer: images/uploads/whatsapp-image-2024-11-19-at-13.36.58.jpeg
 ---
