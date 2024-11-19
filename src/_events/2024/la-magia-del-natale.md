@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: per le vie della città
+thumbnail: images/uploads/mercatini1.png
 flyer: images/uploads/whatsapp-image-2024-11-19-at-13.36.57.jpeg
 ---
