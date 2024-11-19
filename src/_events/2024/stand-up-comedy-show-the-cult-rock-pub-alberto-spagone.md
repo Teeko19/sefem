@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso The Cult Rock Pub, via Cantù 39
+thumbnail: images/uploads/incontro2.png
 flyer: images/uploads/whatsapp-image-2024-11-19-at-13.36.58-1-.jpeg
 ---
