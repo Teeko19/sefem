@@ -9,5 +9,6 @@ tags:
 location:
   city: Trezzano sul Naviglio
   address: Piazza San Lorenzo
+thumbnail: images/uploads/concerto3.png
 flyer: images/uploads/screenshot-2024-11-26-14.01.56-.png
 ---
