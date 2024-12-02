@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Chiesa Prepositurale di San Vittore, piazza del Popolo
+thumbnail: images/uploads/concerto1.png
 flyer: images/uploads/screenshot-2024-11-30-21.25.45-.png
 ---
