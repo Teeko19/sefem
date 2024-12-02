@@ -9,6 +9,6 @@ tags:
 location:
   city: Corbetta
   address: sala Corbetta di una volta
-thumbnail: images/uploads/mercatini1.png
+thumbnail: images/uploads/incontro1.png
 flyer: images/uploads/whatsapp-image-2024-12-02-at-13.12.12.jpeg
 ---
