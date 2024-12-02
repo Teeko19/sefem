@@ -9,6 +9,6 @@ tags:
 location:
   city: Corbetta
   address: presso la Biblioteca Comunale
-thumbnail: images/uploads/incontro1.png
+thumbnail: images/uploads/teatro1.png
 flyer: images/uploads/whatsapp-image-2024-12-02-at-13.12.12.jpeg
 ---
