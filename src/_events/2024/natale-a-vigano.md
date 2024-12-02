@@ -10,5 +10,6 @@ tags:
 location:
   city: Vigano
   address: presso ex Scuola Materna
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/screenshot-2024-11-28-14.11.05-.png
 ---
