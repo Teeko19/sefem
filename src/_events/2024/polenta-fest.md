@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Quartiere Fiera, via Ticino 72
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/polenta-fest-2024-abbiategrasso-lombardiafood.png
 ---
