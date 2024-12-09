@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: piazza Marconi
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/whatsapp-image-2024-12-09-at-13.32.05-1-.jpeg
 ---
