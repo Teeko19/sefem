@@ -10,5 +10,6 @@ tags:
 location:
   city: Corbetta
   address: piazza del Popolo
+thumbnail: images/uploads/eventiperfamiglia1.png
 flyer: images/uploads/whatsapp-image-2024-12-09-at-13.32.05.jpeg
 ---
