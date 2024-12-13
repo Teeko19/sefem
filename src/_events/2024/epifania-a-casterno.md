@@ -9,5 +9,6 @@ tags:
 location:
   city: Casterno
   address: ritrovo presso la Chiesaina di via S. Ambrogio
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2024-12-13-at-13.24.49.jpeg
 ---
