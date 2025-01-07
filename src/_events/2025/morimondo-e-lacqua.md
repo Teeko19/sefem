@@ -8,7 +8,7 @@ tags:
   - Evento per famiglie
 location:
   city: Morimondo
-  address: parco del Ticino
+  address: Museo dell'Abbazia di Morimondo
 thumbnail: images/uploads/eventiperfamiglia1.png
 flyer: images/uploads/whatsapp-image-2025-01-07-at-13.16.00-1-.jpeg
 ---
