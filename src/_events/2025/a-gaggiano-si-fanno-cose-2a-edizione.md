@@ -10,5 +10,6 @@ tags:
 location:
   city: Vigano
   address: presso Arcoiris, via Certosa 5
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2025-01-07-at-13.15.59.jpeg
 ---
