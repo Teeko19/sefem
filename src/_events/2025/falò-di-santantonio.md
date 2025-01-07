@@ -9,5 +9,6 @@ tags:
 location:
   city: Ozzero
   address: presso Parco Cereda, via 1° Maggio
+thumbnail: images/uploads/mercatini1.png
 flyer: images/uploads/whatsapp-image-2025-01-07-at-13.16.00.jpeg
 ---
