@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: presso il Monastero
+thumbnail: images/uploads/mercatini1.png
 flyer: images/uploads/whatsapp-image-2025-01-09-at-13.19.46.jpeg
 ---
