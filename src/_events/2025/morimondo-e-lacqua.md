@@ -6,6 +6,7 @@ ends_at: 2025-01-26T16:30:00
 all_day: false
 tags:
   - Evento per famiglie
+  - Mostra
 location:
   city: Morimondo
   address: Museo dell'Abbazia di Morimondo
