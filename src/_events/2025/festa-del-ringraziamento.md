@@ -11,5 +11,6 @@ tags:
 location:
   city: Casterno
   address: luoghi indicati sulla locandina
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/whatsapp-image-2025-01-13-at-13.49.34.jpeg
 ---
