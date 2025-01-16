@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: presso Biblioteca Comunale Ale e Cele Daccò
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/whatsapp-image-2025-01-16-at-13.34.17-2-.jpeg
 ---
