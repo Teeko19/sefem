@@ -1,6 +1,6 @@
 ---
 layout: event
-title: I giovedì di Gian & Michy - Tu di che paura sei?
+title: I giovedì di Gian & Michy - Tu di che paura sei
 starts_at: 2025-02-13T17:00:00
 ends_at: ""
 all_day: false
