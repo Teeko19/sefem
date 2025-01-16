@@ -9,5 +9,6 @@ tags:
 location:
   city: Cassinetta di Lugagnano
   address: Chiesa di S. Maria Nascente e S. Antonio Abate, via Roma 14
+thumbnail: images/uploads/concerto3.png
 flyer: images/uploads/whatsapp-image-2025-01-16-at-13.34.17.jpeg
 ---
