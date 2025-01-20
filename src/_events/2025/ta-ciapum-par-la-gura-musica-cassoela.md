@@ -9,5 +9,6 @@ tags:
 location:
   city: Magenta
   address: via Moncenisio 29
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/whatsapp-image-2025-01-20-at-13.32.24.jpeg
 ---
