@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: RSA don F. Cozzi, via Monte Rosa 58/60
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/immagine-2025-01-20-134130.png
 ---
