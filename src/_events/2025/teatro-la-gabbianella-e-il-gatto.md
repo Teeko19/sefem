@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: Auditorium
+thumbnail: images/uploads/teatro2.png
 flyer: images/uploads/whatsapp-image-2025-01-20-at-13.32.24-1-.jpeg
 ---
