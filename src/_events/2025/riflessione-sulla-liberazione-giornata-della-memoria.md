@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: presso biblioteca comunale Aldo e Cele Daccò
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/whatsapp-image-2025-01-23-at-13.35.46-2-.jpeg
 ---
