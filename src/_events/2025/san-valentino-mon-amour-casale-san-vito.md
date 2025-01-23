@@ -9,5 +9,6 @@ tags:
 location:
   city: San Vito
   address: "@ Ristorante Casale San Vito, via M. Lodi 2"
+thumbnail: images/uploads/fooddrink4.png
 flyer: images/uploads/whatsapp-image-2025-01-23-at-13.35.46.jpeg
 ---
