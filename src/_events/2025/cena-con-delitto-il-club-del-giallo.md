@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Agriturismo Cascina Palazzo, via Verbano"
+thumbnail: images/uploads/fred-moon-0yqa0rmcsyk-unsplash.webp
 flyer: images/uploads/whatsapp-image-2025-01-23-at-13.35.46-3-.jpeg
 ---
