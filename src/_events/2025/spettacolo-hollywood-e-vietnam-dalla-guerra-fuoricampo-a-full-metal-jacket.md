@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Ex Convento dell'Annunciata, via Pontida 22
+thumbnail: images/uploads/teatro2.png
 flyer: images/uploads/whatsapp-image-2025-01-29-at-13.31.40-2-.jpeg
 ---
