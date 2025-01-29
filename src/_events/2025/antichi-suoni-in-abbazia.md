@@ -10,5 +10,6 @@ tags:
 location:
   city: Morimondo
   address: Sala Capitolare, piazza Municipio 6
+thumbnail: images/uploads/concerto1.png
 flyer: images/uploads/whatsapp-image-2025-01-29-at-13.31.40-1-.jpeg
 ---
