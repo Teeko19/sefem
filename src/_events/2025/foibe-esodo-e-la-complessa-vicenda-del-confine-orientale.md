@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: presso Biblioteca Comunale, piazza XXV Aprile
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/whatsapp-image-2025-02-03-at-13.30.46-2-.jpeg
 ---
