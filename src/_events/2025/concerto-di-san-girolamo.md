@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Aula Magna, Palazzo Brentano
+thumbnail: images/uploads/concerto3.png
 flyer: images/uploads/whatsapp-image-2025-02-03-at-13.30.47-2-.jpeg
 ---
