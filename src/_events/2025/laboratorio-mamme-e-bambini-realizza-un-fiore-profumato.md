@@ -9,6 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: via Roma 150
-thumbnail: images/uploads/fooddrink3.png
+thumbnail: images/uploads/eventiperfamiglia2.png
 flyer: images/uploads/whatsapp-image-2025-02-03-at-13.30.46-1-.jpeg
 ---
