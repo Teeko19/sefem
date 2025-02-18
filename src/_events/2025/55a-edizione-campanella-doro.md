@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Teatro Fiera, via Ticino 72
+thumbnail: images/uploads/divertimento8.png
 flyer: images/uploads/whatsapp-image-2025-02-18-at-13.38.31-1-.jpeg
 ---
