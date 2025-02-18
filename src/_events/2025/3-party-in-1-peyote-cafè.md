@@ -9,5 +9,6 @@ tags:
 location:
   city: Magenta
   address: via Cascina Peralza 12
+thumbnail: images/uploads/divertimento6.png
 flyer: images/uploads/whatsapp-image-2025-02-18-at-13.38.30.jpeg
 ---
