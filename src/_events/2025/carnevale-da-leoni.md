@@ -9,5 +9,6 @@ tags:
 location:
   city: Vigano
   address: presso parcheggio Area Feste
+thumbnail: images/uploads/eventiperbambini2.png
 flyer: images/uploads/whatsapp-image-2025-02-18-at-13.38.31-5-.jpeg
 ---
