@@ -11,5 +11,5 @@ location:
   city: Abbiategrasso
   address: "@ Antico Oleificio, via Amerigo Vespucci 34"
 thumbnail: images/uploads/divertimento1.png
-flyer: images/uploads/whatsapp-image-2025-01-27-at-13.47.57.jpeg
+flyer: images/uploads/whatsapp-image-2025-02-18-at-13.38.31-6-.jpeg
 ---
