@@ -9,6 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso Villa Umberto
-thumbnail: images/uploads/divertimento6.png
+thumbnail: images/uploads/divertimento7.png
 flyer: images/uploads/whatsapp-image-2025-02-18-at-13.38.30-1-.jpeg
 ---
