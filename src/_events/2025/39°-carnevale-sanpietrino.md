@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: piazza San Pietro
+thumbnail: images/uploads/eventiperbambini1.png
 flyer: images/uploads/whatsapp-image-2025-02-18-at-22.15.52.jpeg
 ---
