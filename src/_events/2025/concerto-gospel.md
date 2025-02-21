@@ -9,5 +9,6 @@ tags:
 location:
   city: Cerello
   address: Chiesa S. Vincenzo Martire, piazza don Cermenati 4
+thumbnail: images/uploads/concerto3.png
 flyer: images/uploads/whatsapp-image-2025-02-20-at-13.02.40.jpeg
 ---
