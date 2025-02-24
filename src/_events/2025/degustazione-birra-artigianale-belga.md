@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso Birreria il Cantinone
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2025-02-24-at-13.39.49.jpeg
 ---
