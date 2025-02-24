@@ -10,5 +10,6 @@ tags:
 location:
   city: San Vito
   address: presso Casale San Vito Restaurant Banqueting Events
+thumbnail: images/uploads/fooddrink4.png
 flyer: images/uploads/whatsapp-image-2025-02-24-at-13.39.50-1-.jpeg
 ---
