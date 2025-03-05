@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Castello Visconteo e piazza Castello
+thumbnail: images/uploads/mostra2.png
 flyer: images/uploads/whatsapp-image-2025-03-05-at-13.40.56-1-.jpeg
 ---
