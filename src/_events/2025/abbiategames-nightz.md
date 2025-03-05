@@ -7,7 +7,7 @@ all_day: false
 tags:
   - Divertimento
 location:
-  city: Abbaitegrasso
+  city: Abbiategrasso
   address: presso Sala studio della biblioteca, Castello Visconteo
 thumbnail: images/uploads/whatsapp-image-2025-03-05-at-13.40.56-2-.jpeg
 flyer: images/uploads/whatsapp-image-2025-03-05-at-13.40.56-2-.jpeg
