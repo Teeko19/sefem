@@ -11,5 +11,5 @@ location:
   city: Robecco
   address: Parco di Borgo Archinito
 thumbnail: images/uploads/jonathan_borba_8l8yl2ruusg_unsplash_qin4ga3oal.jpg
-flyer: images/uploads/whatsapp-image-2025-01-07-at-13.15.59-2-.jpeg
+flyer: images/uploads/whatsapp-image-2025-03-13-at-07.40.38.jpeg
 ---
