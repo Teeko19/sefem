@@ -10,6 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: da definire
-thumbnail: images/uploads/divertimento2.png
+thumbnail: images/uploads/sport4.png
 flyer: images/uploads/whatsapp-image-2025-03-24-at-13.34.52-1-.jpeg
 ---
