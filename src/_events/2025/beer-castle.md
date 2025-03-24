@@ -11,5 +11,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Castello Visconteo
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2025-03-24-at-13.34.52.jpeg
 ---
