@@ -10,5 +10,7 @@ tags:
 location:
   city: Gaggiano
   address: ritrovo piazza Teresio Ferraroni
+link: https://www.comune.gaggiano.mi.it/it/eventi/stracadina-del-gusto-6-edizione-2025
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/stracadina_del_gusto_2025.jpg
 ---
