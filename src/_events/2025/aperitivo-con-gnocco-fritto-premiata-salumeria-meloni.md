@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: "@ Premiata Salumeria Meloni, corso Italia 47"
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/whatsapp-image-2025-03-25-at-13.32.03.jpeg
 ---
