@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: presso Parco R. Tonella
+thumbnail: images/uploads/eventiperbambini2.png
 flyer: images/uploads/whatsapp-image-2025-03-27-at-13.37.56-1-.jpeg
 ---
