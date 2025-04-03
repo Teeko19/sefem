@@ -9,5 +9,6 @@ tags:
 location:
   city: Cusago
   address: Castello di Cusago
+thumbnail: images/uploads/mercatini1.png
 flyer: images/uploads/whatsapp-image-2025-04-03-at-07.28.57-2-.jpeg
 ---
