@@ -9,6 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Sala Corsi del Castello Visconteo
-thumbnail: images/uploads/incontro3.png
+thumbnail: images/uploads/incontro1.png
 flyer: images/uploads/whatsapp-image-2025-04-03-at-07.31.04.jpeg
 ---
