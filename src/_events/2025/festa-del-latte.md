@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: per le vie della città
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/whatsapp-image-2025-04-03-at-07.28.57-1-.jpeg
 ---
