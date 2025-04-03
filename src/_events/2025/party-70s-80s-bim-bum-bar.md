@@ -10,5 +10,6 @@ tags:
 location:
   city: Robecco sul Naviglio
   address: "@ Bim Bum Bar, via S. Carlo 2"
+thumbnail: images/uploads/divertimento6.png
 flyer: images/uploads/whatsapp-image-2025-04-03-at-07.28.57.jpeg
 ---
