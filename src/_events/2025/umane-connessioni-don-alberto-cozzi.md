@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Sala Consiliare del Castello Visconteo
+thumbnail: images/uploads/incontro3.png
 flyer: images/uploads/whatsapp-image-2025-04-03-at-07.30.21.jpeg
 ---
