@@ -10,5 +10,6 @@ tags:
 location:
   city: Bareggio
   address: pratone via Primo Maggio
+thumbnail: images/uploads/concerto2.png
 flyer: images/uploads/immagine-2025-04-14-134235.png
 ---
