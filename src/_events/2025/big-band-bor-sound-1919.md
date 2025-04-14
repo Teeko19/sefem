@@ -9,5 +9,6 @@ tags:
 location:
   city: Cassinetta
   address: piazza G. Negri
+thumbnail: images/uploads/concerto2.png
 flyer: images/uploads/whatsapp-image-2025-04-11-at-10.19.42.jpeg
 ---
