@@ -11,5 +11,6 @@ tags:
 location:
   city: Robecco
   address: presso l'oratorio
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2025-04-14-at-13.30.37.jpeg
 ---
