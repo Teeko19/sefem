@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: per le strade della città
+thumbnail: images/uploads/eventiperfamiglia2.png
 flyer: images/uploads/immagine-2025-04-14-133746.png
 ---
