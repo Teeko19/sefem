@@ -10,5 +10,6 @@ tags:
 location:
   city: Boffalora sopra Ticino
   address: Centro Storico
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/whatsapp-image-2025-04-15-at-14.01.59.jpeg
 ---
