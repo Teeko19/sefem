@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso Teatro "al Corso", corso San Pietro 49
+thumbnail: images/uploads/teatro2.png
 flyer: images/uploads/whatsapp-image-2025-04-15-at-14.01.59-1-.jpeg
 ---
