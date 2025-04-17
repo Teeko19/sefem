@@ -9,5 +9,6 @@ tags:
 location:
   city: Magenta
   address: presso Doppio Malto
+thumbnail: images/uploads/divertimento6.png
 flyer: images/uploads/immagine-2025-04-17-133753.png
 ---
