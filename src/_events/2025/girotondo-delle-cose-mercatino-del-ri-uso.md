@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: area feste, piazza Pertini
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/whatsapp-image-2025-04-17-at-13.35.28-1-.jpeg
 ---
