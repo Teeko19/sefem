@@ -9,4 +9,5 @@ tags:
 location:
   city: Casterno
   address: presso l'Agriturismo Molino Santa Marta, via della Valle
+thumbnail: images/uploads/divertimento1.png
 ---
