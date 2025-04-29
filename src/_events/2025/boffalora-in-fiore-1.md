@@ -9,5 +9,6 @@ tags:
 location:
   city: Boffalora
   address: Centro Storico
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/whatsapp-image-2025-04-29-at-13.40.56.jpeg
 ---
