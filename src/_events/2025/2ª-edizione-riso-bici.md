@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: partenza presso Area Feste, piazza Pertini
+thumbnail: images/uploads/sport2.png
 flyer: images/uploads/whatsapp-image-2025-04-29-at-13.38.50.jpeg
 ---
