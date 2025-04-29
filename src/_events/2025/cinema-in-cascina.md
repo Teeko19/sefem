@@ -10,5 +10,6 @@ tags:
 location:
   city: Besate
   address: presso la Cascina Caremma
+thumbnail: images/uploads/cinema1.png
 flyer: images/uploads/whatsapp-image-2025-04-29-at-13.32.15-1-.jpeg
 ---
