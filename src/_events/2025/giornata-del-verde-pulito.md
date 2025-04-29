@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: ritrovo piazza Daccò
+thumbnail: images/uploads/iane-liebermann-o-rku3aqnsw-unsplash-1-.webp
 flyer: images/uploads/whatsapp-image-2025-04-29-at-13.42.37-1-.jpeg
 ---
