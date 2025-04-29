@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso i sotterranei del Castello Visconteo
+thumbnail: images/uploads/fooddrink1.png
 flyer: images/uploads/whatsapp-image-2025-04-29-at-13.32.15.jpeg
 ---
