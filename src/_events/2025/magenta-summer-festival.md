@@ -10,4 +10,5 @@ tags:
 location:
   city: Magenta
   address: presso Tensostruttura di Piazza Mercato
+flyer: images/uploads/divertimento4.png
 ---
