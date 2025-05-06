@@ -10,5 +10,6 @@ tags:
 location:
   city: Robecco sul Naviglio
   address: presso Oratorio S. Giovanni Bosco
+thumbnail: images/uploads/sport1.png
 flyer: images/uploads/whatsapp-image-2025-05-06-at-13.40.49.jpeg
 ---
