@@ -9,5 +9,6 @@ tags:
 location:
   city: Albairate
   address: Cascina Isola Maria
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/1.png
 ---
