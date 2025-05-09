@@ -10,5 +10,6 @@ tags:
 location:
   city: Casterno
   address: presso Molino Santa Marta
+thumbnail: images/uploads/fooddrink4.png
 flyer: images/uploads/whatsapp-image-2025-05-09-at-15.05.36-1-.jpeg
 ---
