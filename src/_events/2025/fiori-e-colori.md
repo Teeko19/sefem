@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso il Castello Visconteo
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/whatsapp-image-2025-05-09-at-15.05.36.jpeg
 ---
