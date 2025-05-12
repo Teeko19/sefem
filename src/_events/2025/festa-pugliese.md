@@ -10,5 +10,6 @@ tags:
 location:
   city: Abbiategrasso
   address: piazza Castello
+thumbnail: images/uploads/fooddrink1.png
 flyer: images/uploads/whatsapp-image-2025-05-12-at-13.31.01.jpeg
 ---
