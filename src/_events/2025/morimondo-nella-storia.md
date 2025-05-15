@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: prato dietro l'Abbazia
+thumbnail: images/uploads/david-dvoracek-3kbizzluhnc-unsplash.webp
 flyer: images/uploads/whatsapp-image-2025-05-15-at-07.32.51-5-.jpeg
 ---
