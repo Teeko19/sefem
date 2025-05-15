@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: presso Istituto Golgi, Cortile della Magnolia
+thumbnail: images/uploads/degustazione1.png
 flyer: images/uploads/immagine-2025-05-15-073527.png
 ---
