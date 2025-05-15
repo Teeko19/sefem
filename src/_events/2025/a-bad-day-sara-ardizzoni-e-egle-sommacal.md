@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: parco di Via Lattuada
+thumbnail: images/uploads/concerto2.png
 flyer: images/uploads/whatsapp-image-2025-05-15-at-07.32.51-2-.jpeg
 ---
