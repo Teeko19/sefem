@@ -9,4 +9,5 @@ tags:
 location:
   city: Abbiategrasso
   address: parco degli Alpini
+thumbnail: images/uploads/mercatini2.png
 ---
