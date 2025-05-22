@@ -9,5 +9,6 @@ tags:
 location:
   city: Boffalora
   address: piazza IV Giugno
+thumbnail: images/uploads/mostra2.png
 flyer: images/uploads/whatsapp-image-2025-05-22-at-07.34.06-2-.jpeg
 ---
