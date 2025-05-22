@@ -9,4 +9,5 @@ tags:
 location:
   city: Abbiategrasso
   address: La Cappelletta, via Stignani
+thumbnail: images/uploads/incontro2.png
 ---
