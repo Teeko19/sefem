@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: Bosco dei Cento Passi
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/whatsapp-image-2025-05-22-at-07.34.06-1-.jpeg
 ---
