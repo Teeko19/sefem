@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Cineteatro al corso, corso San Pietro
+thumbnail: images/uploads/teatro2.png
 flyer: images/uploads/whatsapp-image-2025-05-22-at-07.34.06-3-.jpeg
 ---
