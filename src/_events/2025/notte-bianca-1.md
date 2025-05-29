@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: via Roma
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/whatsapp-image-2025-05-29-at-07.31.25.jpeg
 ---
