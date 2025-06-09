@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: via Roma, 150
+thumbnail: images/uploads/degustazione3.png
 flyer: images/uploads/whatsapp-image-2025-06-09-at-14.03.37-1-.jpeg
 ---
