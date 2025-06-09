@@ -11,5 +11,6 @@ tags:
 location:
   city: Magenta
   address: Tensostruttura, piazza Mercato
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2025-06-09-at-14.03.37-3-.jpeg
 ---
