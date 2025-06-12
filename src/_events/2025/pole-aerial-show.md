@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: ristorante Strafile, SS494
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/whatsapp-image-2025-06-12-at-07.40.55.jpeg
 ---
