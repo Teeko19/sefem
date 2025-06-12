@@ -11,5 +11,6 @@ tags:
 location:
   city: Rosate
   address: piazza Vittorio Veneto
+thumbnail: images/uploads/divertimento1.png
 flyer: images/uploads/whatsapp-image-2025-06-12-at-07.40.56-2-.jpeg
 ---
