@@ -11,5 +11,6 @@ tags:
 location:
   city: Magenta
   address: Parco Naj Oleari
+thumbnail: images/uploads/divertimento4.png
 flyer: images/uploads/whatsapp-image-2025-06-13-at-13.32.01-1-.jpeg
 ---
