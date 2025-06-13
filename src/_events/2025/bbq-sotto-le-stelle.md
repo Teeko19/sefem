@@ -9,5 +9,6 @@ tags:
 location:
   city: Casterno
   address: Agriturismo Molino Santa Marta, via della Valle
+thumbnail: images/uploads/fooddrink1.png
 flyer: images/uploads/whatsapp-image-2025-06-13-at-13.32.01-2-.jpeg
 ---
