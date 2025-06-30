@@ -11,5 +11,6 @@ tags:
 location:
   city: Vigano
   address: area Feste
+thumbnail: images/uploads/divertimento5.png
 flyer: images/uploads/whatsapp-image-2025-06-30-at-13.26.43-3-.jpeg
 ---
