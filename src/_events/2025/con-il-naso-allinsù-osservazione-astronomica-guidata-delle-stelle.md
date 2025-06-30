@@ -10,5 +10,6 @@ tags:
 location:
   city: Gaggiano
   address: Area Feste, via Gramsci 36
+thumbnail: images/uploads/anthony-garcia-gthdrlsqehg-unsplash.webp
 flyer: images/uploads/whatsapp-image-2025-06-30-at-13.26.43-2-.jpeg
 ---
