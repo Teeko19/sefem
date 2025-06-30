@@ -11,5 +11,6 @@ tags:
 location:
   city: Ozzero
   address: Parco Cereda
+thumbnail: images/uploads/divertimento2.png
 flyer: images/uploads/whatsapp-image-2025-06-30-at-13.26.43-4-.jpeg
 ---
