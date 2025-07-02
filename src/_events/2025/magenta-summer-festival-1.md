@@ -12,5 +12,6 @@ location:
   city: Magenta
   address: Tensostruttura piazza Arrigo VII
 link: https://www.ragazzidimagenta.it/magenta-summer-festival/
+thumbnail: images/uploads/divertimento4.png
 flyer: images/uploads/whatsapp-image-2025-07-02-at-11.16.54.jpeg
 ---
