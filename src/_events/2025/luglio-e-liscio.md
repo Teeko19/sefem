@@ -9,5 +9,6 @@ tags:
 location:
   city: Corbetta
   address: Villa Pagani della Torre
+thumbnail: images/uploads/divertimento6.png
 flyer: images/uploads/whatsapp-image-2025-07-02-at-11.08.40.jpeg
 ---
