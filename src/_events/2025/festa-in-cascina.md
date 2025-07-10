@@ -10,5 +10,6 @@ tags:
 location:
   city: Rosate
   address: Cascina Contina
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/whatsapp-image-2025-07-10-at-13.35.43-1-.jpeg
 ---
