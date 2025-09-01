@@ -9,5 +9,6 @@ tags:
 location:
   city: Ozzero
   address: centro paese
+thumbnail: images/uploads/manifestazione3.png
 flyer: images/uploads/screenshot-2025-09-01-07.31.01-.png
 ---
