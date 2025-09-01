@@ -10,5 +10,6 @@ tags:
 location:
   city: Boffalora
   address: Centro paese
+thumbnail: images/uploads/mercatini3.png
 flyer: images/uploads/screenshot-2025-09-01-07.31.54-.png
 ---
