@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Villa Umberto, viale Cattaneo 64
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/screenshot-2025-08-31-16.32.41-.png
 ---
