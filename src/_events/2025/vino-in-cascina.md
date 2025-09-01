@@ -10,5 +10,6 @@ tags:
 location:
   city: Morimondo
   address: Ristorante Della Commenda,  Via Pampuri 2
+thumbnail: images/uploads/divertimento1.png
 flyer: images/uploads/screenshot-2025-09-01-07.31.15-.png
 ---
