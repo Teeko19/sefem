@@ -10,5 +10,6 @@ tags:
 location:
   city: Vigano
   address: Area feste
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/screenshot-2025-09-01-07.31.40-.png
 ---
