@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: Castello Visconteo
+thumbnail: images/uploads/concerto2.png
 flyer: images/uploads/screenshot-2025-09-01-07.33.02-.png
 ---
