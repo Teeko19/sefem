@@ -9,5 +9,6 @@ tags:
 location:
   city: Robecco
   address: per le vie del paese
+thumbnail: images/uploads/manifestazione1.png
 flyer: images/uploads/539301592_1072960268257759_8208770302773689258_n.jpg
 ---
