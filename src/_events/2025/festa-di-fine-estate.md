@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: La Cappelletta
+thumbnail: images/uploads/divertimento3.png
 flyer: images/uploads/screenshot-2025-09-02-07.42.00-.png
 ---
