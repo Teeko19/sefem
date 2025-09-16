@@ -10,5 +10,6 @@ tags:
 location:
   city: Bareggio
   address: piazza Cavour
+thumbnail: images/uploads/divertimento4.png
 flyer: images/uploads/screenshot-2025-09-16-07.29.09-.png
 ---
