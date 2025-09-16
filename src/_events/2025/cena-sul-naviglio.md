@@ -9,5 +9,6 @@ tags:
 location:
   city: Gaggiano
   address: "via Gozzadini "
+thumbnail: images/uploads/fooddrink3.png
 flyer: images/uploads/screenshot-2025-09-16-07.30.08-.png
 ---
