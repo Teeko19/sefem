@@ -9,5 +9,6 @@ tags:
 location:
   city: Motta Visconti
   address: per le vie del paese
+thumbnail: images/uploads/sagra1.png
 flyer: images/uploads/screenshot-2025-09-16-07.30.25-.png
 ---
