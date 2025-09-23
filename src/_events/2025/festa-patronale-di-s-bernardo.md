@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: indirizzi sulla locandina
+thumbnail: images/uploads/manifestazione2.png
 flyer: images/uploads/548282896_24124399130570857_8582317728212745717_n.jpg
 ---
