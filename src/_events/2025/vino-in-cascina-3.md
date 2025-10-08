@@ -9,5 +9,6 @@ tags:
 location:
   city: Morimondo
   address: Della Commenda,  Via Pampuri 2
+thumbnail: images/uploads/divertimento7.png
 flyer: images/uploads/immagine-whatsapp-2025-10-08-ore-13.31.32_384b0758.jpg
 ---
