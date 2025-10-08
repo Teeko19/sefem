@@ -9,5 +9,6 @@ tags:
 location:
   city: Rosate
   address: ritrovo via Vittorio Veneto 2
+thumbnail: images/uploads/fitsum-admasu-ogv9xil7dky-unsplash.webp
 flyer: images/uploads/immagine-2025-10-08-133542.png
 ---
