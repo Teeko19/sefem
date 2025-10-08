@@ -9,5 +9,6 @@ tags:
 location:
   city: Abbiategrasso
   address: per le vie della città
+thumbnail: images/uploads/fitsum-admasu-ogv9xil7dky-unsplash.webp
 flyer: images/uploads/immagine-whatsapp-2025-10-08-ore-13.31.32_fe37dc5c.jpg
 ---
